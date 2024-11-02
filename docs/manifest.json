@@ -45,6 +45,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/article2.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/article2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/index.md",
       "output": {
         ".html": {
