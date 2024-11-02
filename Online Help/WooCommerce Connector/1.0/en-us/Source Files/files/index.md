@@ -22,4 +22,4 @@ On this help site, you can explore in-depth articles about the WooCommerce Conne
 
 To send feedback about this page, select the following link:
 
-[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20welcome)
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20index)
