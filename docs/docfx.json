@@ -53,7 +53,7 @@
       }
     ],
     "overwrite": [],
-    "dest": "D:/Synfynal/WooCommerce Connector/woocommerce-connector.github.io/Online Help/WooCommerce Connector/1.0/en-us/Generated Files",
+    "dest": "D:/Synfynal/WooCommerce Connector/woocommerce-connector.github.io/docs",
     "template": [
       "default",
       "D:/Synfynal/WooCommerce Connector/woocommerce-connector.github.io/Online Help/Templates/SingulinkFX/singulinkfx"
