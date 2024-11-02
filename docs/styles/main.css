@@ -146,3 +146,8 @@ background-color: #4be19b;
   display: none;
 }
 
+ul.breadcrumb>li::before {
+  content: "/";
+  margin-right: 5px;
+  color: #2E7590;
+}
