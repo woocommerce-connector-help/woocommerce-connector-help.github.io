@@ -5,3 +5,4 @@
 
 ## [Help article 1](article1.md)
 ### [Help article 2](article2.md)
+### [Help article 3](article3.md)
