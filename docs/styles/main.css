@@ -139,5 +139,10 @@ background-color: #4be19b;
   }
 }
 
-
+#contribution {
+  float: right;
+  margin-top: 1.1em;
+  position: revert;
+  display: none;
+}
 
