@@ -3,3 +3,4 @@
 
 # [Welcome to the WooCommerce Connector Help](index.md)
 
+## [Help article 1](article1.md)

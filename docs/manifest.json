@@ -35,6 +35,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/article1.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/article1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/index.md",
       "output": {
         ".html": {
