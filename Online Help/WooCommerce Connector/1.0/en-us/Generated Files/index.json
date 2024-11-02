@@ -1,0 +1,12 @@
+{
+  "files/welcome.html": {
+    "href": "files/welcome.html",
+    "title": "Welcome to the WooCommerce Connector Help | WooCommerce Connector Help",
+    "keywords": "Welcome to the WooCommerce Connector Help The WooCommerce Connector app synchronizes Microsoft Dynamics 365 Business Central with WooCommerce. The WooCommerce Connector offers you the best of two worlds: the easy to use, the WordPress e-commerce solution WooCommerce that allows you to set up an online store to sell your goods combined with the business process flows of the Microsoft Dynamics 365 Business Central. The WooCommerce Connector will help you in the following ways: Save time: Avoid tedious double entry, human errors, and delays by automating your process. Unparalleled accuracy: The age of manual entry is behind us. Transactions should seamlessly synchronize between systems avoiding human error. Two-way data sync: Synchronize WooCommerce directly to Microsoft Dynamics 365 Business Central without managing a separate tool. On this help site, you can explore in-depth articles about the WooCommerce Connector. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/welcome2.html": {
+    "href": "files/welcome2.html",
+    "title": "Setup | WooCommerce Connector Help",
+    "keywords": "Setup Feedback To send feedback about this page, select the following link: feedback-product-docs@woocommerceconnector.com"
+  }
+}

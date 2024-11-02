@@ -1,0 +1,105 @@
+{
+  "source_base_path": "D:/Synfynal/Online Help/WooCommerce Connector/1.0/en-us/Source Files",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docfx.json",
+      "output": {
+        "resource": {
+          "relative_path": "docfx.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "files/TOC.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/TOC.html"
+        },
+        ".json": {
+          "relative_path": "files/TOC.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/favicon.ico"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/welcome.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/welcome.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/welcome2.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/welcome2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

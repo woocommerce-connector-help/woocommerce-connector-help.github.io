@@ -1,0 +1,143 @@
+nav {
+    max-width: 400px;
+}
+
+@media (min-width: 1024px) {
+    .main-panel {
+        margin-bottom: 0;
+        margin-left: 400px;
+        padding: 20px 40px;
+    }
+}
+
+body,html {
+    padding: 0;
+    margin: 0;
+    font-family: Poppins-Extralight,Poppins,sans-serif;
+    color: var(--text-color);
+    background-color: var(--main-bg-color)
+}
+
+h1, h2, h3, h4, h5 {
+   font-family: Raleway,sans-serif;
+}
+
+
+/* Modifies appearance of table header */
+table th {
+  color: #505050;
+  background-color: #b4b8b9;
+  text-transform: none;
+  font-family: Raleway,sans-serif;
+  font-weight: bold;
+  border: none;
+  font-size: 16px
+}
+
+/* Modifies appearance of table rows */
+.table tr:nth-child(even) {
+  color: #505050;
+  background: #f6f6f6;
+  font-family: Poppins-Extralight,Poppins,sans-serif;
+}
+
+.table tr:nth-child(odd) {
+  color: #505050;
+  background: #ffffff;
+  font-family: Poppins-Extralight,Poppins,sans-serif;
+}
+
+:hover > .anchorjs-link,.anchorjs-link:focus {
+    opacity: 0;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.footer {
+    font-size: 16px;
+    text-align: center;
+    margin-block-start: 30px;
+    color:#ffffff;
+    background:#ffffff;
+    border-radius:5px;
+    padding:10px;
+    font-weight:normal;
+}
+
+mark {
+background-color: #4be19b;
+}
+
+.toc .nav > li > .expand-stub::before, .toc .nav > li.active > .expand-stub::before {
+    width: 8px;
+    height: 8px;
+    top: 6px;
+    left: 6px;
+}
+
+.toc .nav > li > .expand-stub::before, .toc .nav > li.active > .expand-stub::before {
+    content: " ";
+    position: absolute;
+    transform: rotate(-90deg);
+    width: 10px;
+    height: 10px;
+    top: 5px;
+    left: 5px;
+    background-repeat: no-repeat;
+    background: url(down-arrow.svg);
+}
+
+.copyright-footer {
+    font-size: 16px;
+    text-align: center;
+    margin-block-start: 30px;
+    color:#ffffff;
+    background:#00305B;
+    border-radius:5px;
+    padding:10px;
+    font-weight:normal;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    font-size: 16px;
+    text-align: center;
+    margin-block-start: 30px;
+    color:#ffffff;
+    background:#00305B;
+    border-radius:5px;
+    padding:10px;
+    font-weight:normal;
+  }
+}
+
+
+
