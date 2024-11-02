@@ -1,12 +1,7 @@
 {
-  "files/welcome.html": {
-    "href": "files/welcome.html",
+  "files/index.html": {
+    "href": "files/index.html",
     "title": "Welcome to the WooCommerce Connector Help | WooCommerce Connector Help",
-    "keywords": "Welcome to the WooCommerce Connector Help The WooCommerce Connector app synchronizes Microsoft Dynamics 365 Business Central with WooCommerce. The WooCommerce Connector offers you the best of two worlds: the easy to use, the WordPress e-commerce solution WooCommerce that allows you to set up an online store to sell your goods combined with the business process flows of the Microsoft Dynamics 365 Business Central. The WooCommerce Connector will help you in the following ways: Save time: Avoid tedious double entry, human errors, and delays by automating your process. Unparalleled accuracy: The age of manual entry is behind us. Transactions should seamlessly synchronize between systems avoiding human error. Two-way data sync: Synchronize WooCommerce directly to Microsoft Dynamics 365 Business Central without managing a separate tool. On this help site, you can explore in-depth articles about the WooCommerce Connector. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
-  },
-  "files/welcome2.html": {
-    "href": "files/welcome2.html",
-    "title": "Setup | WooCommerce Connector Help",
-    "keywords": "Setup Feedback To send feedback about this page, select the following link: feedback-product-docs@woocommerceconnector.com"
+    "keywords": "Welcome to the WooCommerce Connector Help The WooCommerce Connector app seamlessly integrates WooCommerce with Microsoft Dynamics 365 Business Central. This integration combines the strengths of both platforms. WooCommerce is an open-source e-commerce solution that fuels over four million online stores, while Microsoft Dynamics 365 Business Central is a cloud-based ERP trusted by more than 40,000 small and midsize businesses. With WooCommerce, you can create an online store to sell your products, and with Business Central, you can effectively manage your finances, sales, services, and operations. On this help site, you can explore in-depth articles about the WooCommerce Connector. You will learn how to set up the connector to synchronizes orders, items, item categories, item variants, item attributes, inventory, customers, coupons, and more across both applications. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   }
 }

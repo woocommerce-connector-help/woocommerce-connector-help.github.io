@@ -1,5 +1,5 @@
 {
-  "source_base_path": "D:/Synfynal/Online Help/WooCommerce Connector/1.0/en-us/Source Files",
+  "source_base_path": "D:/Synfynal/WooCommerce Connector/woocommerce-connector.github.io/Online Help/WooCommerce Connector/1.0/en-us/Source Files",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -34,6 +34,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "files/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png",
       "output": {
@@ -59,26 +69,6 @@
       "output": {
         "resource": {
           "relative_path": "files/media/logo.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/welcome.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/welcome.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/welcome2.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/welcome2.html"
         }
       },
       "version": ""
