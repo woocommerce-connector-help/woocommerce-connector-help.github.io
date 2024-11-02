@@ -1,2 +1,2 @@
-# woocommerce-connector.github.io
- WooCommerce Connector
+# woocommerce-connector-help.github.io
+ WooCommerce Connector Help
