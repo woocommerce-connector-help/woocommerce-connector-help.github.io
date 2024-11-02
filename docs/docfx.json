@@ -56,7 +56,7 @@
     "dest": "D:/Synfynal/WooCommerce Connector/woocommerce-connector.github.io/docs",
     "template": [
       "default",
-      "D:/Synfynal/WooCommerce Connector/woocommerce-connector.github.io/Online Help/Templates/SingulinkFX/singulinkfx"
+      "D:/Synfynal/WooCommerce Connector/woocommerce-connector.github.io/Templates/SingulinkFX/singulinkfx"
 
     ],
     "postProcessors": [ "ExtractSearchIndex" ],
