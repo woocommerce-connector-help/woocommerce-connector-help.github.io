@@ -10,7 +10,7 @@ date: 10/17/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes synfynal -->
 
 # Welcome to the WooCommerce Connector Help
 
@@ -23,3 +23,5 @@ On this help site, you can explore in-depth articles about the WooCommerce Conne
 To send feedback about this page, select the following link:
 
 [srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20index)
+
+<!-- <div class="flex-container-footer"><div>© 2024 by Synfynal<br><a href="https://www.synfynal.com/"><img src="../files/media/25.png" style="display:block;margin-left:auto;margin-right:auto"></a></div> -->

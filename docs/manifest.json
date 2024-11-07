@@ -1,5 +1,5 @@
 {
-  "source_base_path": "D:/Test/woocommerce-connector-help.github.io/Source Files",
+  "source_base_path": "D:/Synfynal/woocommerce-connector-help.github.io/Source Files",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -75,10 +75,80 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "files/media/16x16 logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/16x16 logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/2 big.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/2 big.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/25.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/25.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/40.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/40.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/40copyright-footer.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/40copyright-footer.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/50.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/50.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png",
       "output": {
         "resource": {
           "relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/facebook.webp",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/facebook.webp"
         }
       },
       "version": ""
@@ -95,10 +165,60 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "files/media/instagram.webp",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/instagram.webp"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "files/media/logo.png",
       "output": {
         "resource": {
           "relative_path": "files/media/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal2-216x216.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal2-216x216.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/synfynal2-48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/synfynal2-48x48.png"
         }
       },
       "version": ""
