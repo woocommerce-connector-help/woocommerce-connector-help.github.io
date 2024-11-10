@@ -1,22 +1,262 @@
 {
-  "files/article1.html": {
-    "href": "files/article1.html",
-    "title": "Help article 1 | WooCommerce Connector Help",
-    "keywords": "Help article 1 Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  "files/additional-paid-features.html": {
+    "href": "files/additional-paid-features.html",
+    "title": "Additional paid features | WooCommerce Connector Help",
+    "keywords": "Additional paid features If required, you can purchase additional modules for the WooCommerce Connector app. The following additional paid feature modules are available for purchase: Product variations as items: The product variations as items feature provides the capability for you to seamlessly synchronize your product variations from WooCommerce to Business Central as regular items. For more information, go to Product variations as items. Metadata synchronization: The metadata synchronization feature provides the capability for you to synchronize specified metadata values from a response into a specific field in Business Central. For more information, go to Metadata synchronization. These additional paid feature modules require a one time payment. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
-  "files/article2.html": {
-    "href": "files/article2.html",
-    "title": "Help article 2 | WooCommerce Connector Help",
-    "keywords": "Help article 2 Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  "files/api-consumer-keys-secret.html": {
+    "href": "files/api-consumer-keys-secret.html",
+    "title": "API consumer keys and secret | WooCommerce Connector Help",
+    "keywords": "API consumer keys and secret Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
-  "files/article3.html": {
-    "href": "files/article3.html",
-    "title": "Help article 3 | WooCommerce Connector Help",
-    "keywords": "Help article 3 Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  "files/business-central-supported-editions.html": {
+    "href": "files/business-central-supported-editions.html",
+    "title": "Business Central supported editions | WooCommerce Connector Help",
+    "keywords": "Business Central supported editions The WooCommerce Connector app is compatible with the Essential and Premium editions of Microsoft Dynamics 365 Business Central. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/buy-subscription.html": {
+    "href": "files/buy-subscription.html",
+    "title": "Buy a subscription | WooCommerce Connector Help",
+    "keywords": "Buy a subscription Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/coupons.html": {
+    "href": "files/coupons.html",
+    "title": "Coupons | WooCommerce Connector Help",
+    "keywords": "Coupons Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/create-item-variants-automatically.html": {
+    "href": "files/create-item-variants-automatically.html",
+    "title": "Create item variants automatically | WooCommerce Connector Help",
+    "keywords": "Create item variants automatically Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/customer-mapping.html": {
+    "href": "files/customer-mapping.html",
+    "title": "Customer mapping | WooCommerce Connector Help",
+    "keywords": "Customer mapping Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/customers.html": {
+    "href": "files/customers.html",
+    "title": "Customers | WooCommerce Connector Help",
+    "keywords": "Customers Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/extend-woocommerce-connector-app.html": {
+    "href": "files/extend-woocommerce-connector-app.html",
+    "title": "Extend the WooCommerce Connector app | WooCommerce Connector Help",
+    "keywords": "Extend the WooCommerce Connector app The WooCommerce Connector app is fully extensible with events that you can subscribe to and use to enhance the business logic for your custom processes. If you cannot find the proper publishers, contact the WooCommerce Connector app support team. If desired, the support team can build the per tenant extension for you. For more information about events, go to Events in AL. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/getting-started.html": {
+    "href": "files/getting-started.html",
+    "title": "Getting started | WooCommerce Connector Help",
+    "keywords": "Getting started Before you can get started with the WooCommerce Connector app, you must have a WooCommerce online store and a Business Central environment. Your Business Central environment can be online or on-premises. Typically, you install, and then set up the app in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment. To learn more about how to get started with the WooCommerce Connector app, in the following table, select the links. To See Learn about the WooCommerce Connector app in a sandbox environment. Sandbox environment Learn how to install the WooCommerce Connector app from Microsoft AppSource. Install the WooCommerce Connector app from Microsoft AppSource Learn how to set up the WooCommerce Connector app. Set up the WooCommerce Connector app Learn about the WooCommerce Connector app in a production environment. Production environment Learn about WooCommerce Connector app pricing. WooCommerce Connector app pricing Learn how to buy a subscription. Buy a subscription Learn about the WooCommerce Connector app in a on-premises environment. On-premises environment Learn about language support. Language support Learn about Business Central supported editions. Business Central supported editions Learn about extending the WooCommerce Connector app. Extend the WooCommerce Connector app Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
   "files/index.html": {
     "href": "files/index.html",
     "title": "Welcome to the WooCommerce Connector Help | WooCommerce Connector Help",
     "keywords": "Welcome to the WooCommerce Connector Help The WooCommerce Connector app seamlessly integrates WooCommerce with Microsoft Dynamics 365 Business Central. This integration combines the strengths of both platforms. WooCommerce is an open-source e-commerce solution that fuels over four million online stores, while Microsoft Dynamics 365 Business Central is a cloud-based ERP that is trusted by more than 40,000 small and midsize businesses. With WooCommerce, you can create an online store to sell your products, and with Business Central, you can effectively manage your finances, sales, services, and operations. On this help site, you can explore in-depth articles about the WooCommerce Connector. You will learn how to set up the connector to synchronizes orders, items, item categories, item variants, item attributes, inventory, customers, coupons, and more across both applications. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/install-woocommerce-connector-app-from-microsoft-appsource.html": {
+    "href": "files/install-woocommerce-connector-app-from-microsoft-appsource.html",
+    "title": "Install the WooCommerce Connector app from Microsoft AppSource | WooCommerce Connector Help",
+    "keywords": "Install the WooCommerce Connector app from Microsoft AppSource Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/item-category-mapping.html": {
+    "href": "files/item-category-mapping.html",
+    "title": "Item category mapping | WooCommerce Connector Help",
+    "keywords": "Item category mapping Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/item-mapping.html": {
+    "href": "files/item-mapping.html",
+    "title": "Item mapping | WooCommerce Connector Help",
+    "keywords": "Item mapping Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/item-marketing-text.html": {
+    "href": "files/item-marketing-text.html",
+    "title": "Item marketing text | WooCommerce Connector Help",
+    "keywords": "Item marketing text Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/item-prices.html": {
+    "href": "files/item-prices.html",
+    "title": "Item prices | WooCommerce Connector Help",
+    "keywords": "Item prices Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/item-variant-mapping.html": {
+    "href": "files/item-variant-mapping.html",
+    "title": "Item variant mapping | WooCommerce Connector Help",
+    "keywords": "Item variant mapping Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/item-variants.html": {
+    "href": "files/item-variants.html",
+    "title": "Item variants | WooCommerce Connector Help",
+    "keywords": "Item variants Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/items.html": {
+    "href": "files/items.html",
+    "title": "Items | WooCommerce Connector Help",
+    "keywords": "Items Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/language-support.html": {
+    "href": "files/language-support.html",
+    "title": "Language support | WooCommerce Connector Help",
+    "keywords": "Language support The WooCommerce Connector app is fully supported in all Business Central languages. For more information about Business Central supported languages, go to Country/regional availability and supported languages. Getting started Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/metadata-synchronization.html": {
+    "href": "files/metadata-synchronization.html",
+    "title": "Metadata synchronization | WooCommerce Connector Help",
+    "keywords": "Metadata synchronization Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/on-premises-environment.html": {
+    "href": "files/on-premises-environment.html",
+    "title": "On-premises environment | WooCommerce Connector Help",
+    "keywords": "On-premises environment The WooCommerce Connector app is available for use in on-premises environments. Instead of installing the app from Microsoft AppSource, you must contact the WooCommerce Connector app support team. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/order-fee-lines.html": {
+    "href": "files/order-fee-lines.html",
+    "title": "Order fee lines | WooCommerce Connector Help",
+    "keywords": "Order fee lines Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/order-number-type.html": {
+    "href": "files/order-number-type.html",
+    "title": "Order number type | WooCommerce Connector Help",
+    "keywords": "Order number type Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/order-processing.html": {
+    "href": "files/order-processing.html",
+    "title": "Order processing | WooCommerce Connector Help",
+    "keywords": "Order processing Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/orders.html": {
+    "href": "files/orders.html",
+    "title": "Orders | WooCommerce Connector Help",
+    "keywords": "Orders Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/product-variations-as-items.html": {
+    "href": "files/product-variations-as-items.html",
+    "title": "Product variations as items | WooCommerce Connector Help",
+    "keywords": "Product variations as items Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/production-environment.html": {
+    "href": "files/production-environment.html",
+    "title": "Production environment | WooCommerce Connector Help",
+    "keywords": "Production environment After you are familiar with how the WooCommerce Connector app works and have successfully tested the app in your sandbox environment, you can then implement the app in your production environment. You configure the app in your production environment using the same procedures as you used for your sandbox environment. After you install the app in your production environment, you must buy a subscription for the app. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/pull-webstore-items.html": {
+    "href": "files/pull-webstore-items.html",
+    "title": "Pull webstore items | WooCommerce Connector Help",
+    "keywords": "Pull webstore items Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/push-webstore-items.html": {
+    "href": "files/push-webstore-items.html",
+    "title": "Push webstore items | WooCommerce Connector Help",
+    "keywords": "Push webstore items Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/return-orders.html": {
+    "href": "files/return-orders.html",
+    "title": "Return orders | WooCommerce Connector Help",
+    "keywords": "Return orders Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/sandbox-environment.html": {
+    "href": "files/sandbox-environment.html",
+    "title": "Sandbox environment | WooCommerce Connector Help",
+    "keywords": "Sandbox environment Typically, you install, and then set up the WooCommerce Connector app in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment. A subscription is not necessary to use the app in a sandbox environment. You only have to pay for the app when you use the app in your production environment. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/set-up-default-customer-template-per-country-region.html": {
+    "href": "files/set-up-default-customer-template-per-country-region.html",
+    "title": "Set up a default customer template per country or region | WooCommerce Connector Help",
+    "keywords": "Set up a default customer template per country or region Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/set-up-multiple-woocommerce-stores.html": {
+    "href": "files/set-up-multiple-woocommerce-stores.html",
+    "title": "Set up multiple WooCommerce stores | WooCommerce Connector Help",
+    "keywords": "Set up multiple WooCommerce stores Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/set-up-woocommerce-connector-app.html": {
+    "href": "files/set-up-woocommerce-connector-app.html",
+    "title": "Set up the WooCommerce Connector app | WooCommerce Connector Help",
+    "keywords": "Set up the WooCommerce Connector app Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/suggest-customer-mapping.html": {
+    "href": "files/suggest-customer-mapping.html",
+    "title": "Suggest customer mapping | WooCommerce Connector Help",
+    "keywords": "Suggest customer mapping Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/suggest-item-category-mapping.html": {
+    "href": "files/suggest-item-category-mapping.html",
+    "title": "Suggest item category mapping | WooCommerce Connector Help",
+    "keywords": "Suggest item category mapping Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/suggest-item-mapping.html": {
+    "href": "files/suggest-item-mapping.html",
+    "title": "Suggest item mapping | WooCommerce Connector Help",
+    "keywords": "Suggest item mapping Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/synchronize-customers.html": {
+    "href": "files/synchronize-customers.html",
+    "title": "Synchronize customers | WooCommerce Connector Help",
+    "keywords": "Synchronize customers Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/synchronize-item-categories.html": {
+    "href": "files/synchronize-item-categories.html",
+    "title": "Synchronize item categories | WooCommerce Connector Help",
+    "keywords": "Synchronize item categories Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/synchronize-item-prices-with-values-from-customer-price-groups.html": {
+    "href": "files/synchronize-item-prices-with-values-from-customer-price-groups.html",
+    "title": "Synchronize item prices with values from customer price groups | WooCommerce Connector Help",
+    "keywords": "Synchronize item prices with values from customer price groups Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/synchronize-new-modified-items-from-webstore.html": {
+    "href": "files/synchronize-new-modified-items-from-webstore.html",
+    "title": "Synchronize new and modified items from the webstore | WooCommerce Connector Help",
+    "keywords": "Synchronize new and modified items from the webstore Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/synchronize-selected-customers.html": {
+    "href": "files/synchronize-selected-customers.html",
+    "title": "Synchronize selected customers | WooCommerce Connector Help",
+    "keywords": "Synchronize selected customers Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/synchronize-selected-item.html": {
+    "href": "files/synchronize-selected-item.html",
+    "title": "Synchronize selected items | WooCommerce Connector Help",
+    "keywords": "Synchronize selected items Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/total-shipping-amount-line.html": {
+    "href": "files/total-shipping-amount-line.html",
+    "title": "Total shipping amount line | WooCommerce Connector Help",
+    "keywords": "Total shipping amount line Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/total-tax-amount-line.html": {
+    "href": "files/total-tax-amount-line.html",
+    "title": "Total tax amount line | WooCommerce Connector Help",
+    "keywords": "Total tax amount line Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/trigger-synchroinization.html": {
+    "href": "files/trigger-synchroinization.html",
+    "title": "Trigger a synchronization | WooCommerce Connector Help",
+    "keywords": "Trigger a synchronization Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/troubleshoot-api-issues.html": {
+    "href": "files/troubleshoot-api-issues.html",
+    "title": "Troubleshoot API issues | WooCommerce Connector Help",
+    "keywords": "Troubleshoot API issues Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/use-in-webstore.html": {
+    "href": "files/use-in-webstore.html",
+    "title": "Use in webstore | WooCommerce Connector Help",
+    "keywords": "Use in webstore Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/webstore-payment-method.html": {
+    "href": "files/webstore-payment-method.html",
+    "title": "Webstore payment method | WooCommerce Connector Help",
+    "keywords": "Webstore payment method Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/webstore-status-filter.html": {
+    "href": "files/webstore-status-filter.html",
+    "title": "Webstore status filter | WooCommerce Connector Help",
+    "keywords": "Webstore status filter Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/woocommerce-connector-app-pricing.html": {
+    "href": "files/woocommerce-connector-app-pricing.html",
+    "title": "WooCommerce Connector app pricing | WooCommerce Connector Help",
+    "keywords": "WooCommerce Connector app pricing The WooCommerce Connector app is free to use in a sandbox environment and has a 15 day free trial period in a production environment. After the free trial period ends, you must buy a subscription and pay based on the number of sales orders that the WooCommerce Connector app synchronizes per month. You only pay for what you use. For more information, go to Pricing. Also, if required, you can purchase additional modules for the WooCommerce Connector app. These additional paid feature modules require a one time payment. For more information, go to Additional paid features. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   }
 }

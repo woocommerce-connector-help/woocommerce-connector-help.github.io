@@ -35,30 +35,100 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/article1.md",
+      "source_relative_path": "files/additional-paid-features.md",
       "output": {
         ".html": {
-          "relative_path": "files/article1.html"
+          "relative_path": "files/additional-paid-features.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/article2.md",
+      "source_relative_path": "files/api-consumer-keys-secret.md",
       "output": {
         ".html": {
-          "relative_path": "files/article2.html"
+          "relative_path": "files/api-consumer-keys-secret.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/article3.md",
+      "source_relative_path": "files/business-central-supported-editions.md",
       "output": {
         ".html": {
-          "relative_path": "files/article3.html"
+          "relative_path": "files/business-central-supported-editions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/buy-subscription.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/buy-subscription.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/coupons.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/coupons.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/create-item-variants-automatically.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/create-item-variants-automatically.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/customer-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/extend-woocommerce-connector-app.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/extend-woocommerce-connector-app.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/getting-started.html"
         }
       },
       "version": ""
@@ -69,6 +139,96 @@
       "output": {
         ".html": {
           "relative_path": "files/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/install-woocommerce-connector-app-from-microsoft-appsource.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/install-woocommerce-connector-app-from-microsoft-appsource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-category-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-marketing-text.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-marketing-text.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-prices.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-prices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-variant-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-variant-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-variants.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-variants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/language-support.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/language-support.html"
         }
       },
       "version": ""
@@ -219,6 +379,326 @@
       "output": {
         "resource": {
           "relative_path": "files/media/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/metadata-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/metadata-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/on-premises-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/on-premises-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-fee-lines.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-fee-lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-number-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-number-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-processing.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-processing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/product-variations-as-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/product-variations-as-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/production-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/production-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/pull-webstore-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/pull-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/push-webstore-items.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/push-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/return-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/return-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/sandbox-environment.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/sandbox-environment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/set-up-default-customer-template-per-country-region.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/set-up-default-customer-template-per-country-region.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/set-up-multiple-woocommerce-stores.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/set-up-multiple-woocommerce-stores.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/set-up-woocommerce-connector-app.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/set-up-woocommerce-connector-app.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/suggest-customer-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/suggest-customer-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/suggest-item-category-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/suggest-item-category-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/suggest-item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/suggest-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-item-categories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-item-prices-with-values-from-customer-price-groups.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-item-prices-with-values-from-customer-price-groups.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-new-modified-items-from-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-new-modified-items-from-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-selected-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-selected-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-selected-item.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-selected-item.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/total-shipping-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/total-shipping-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/total-tax-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/total-tax-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/trigger-synchroinization.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/trigger-synchroinization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/troubleshoot-api-issues.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/troubleshoot-api-issues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/use-in-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/use-in-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-payment-method.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-payment-method.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-status-filter.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-status-filter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/woocommerce-connector-app-pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/woocommerce-connector-app-pricing.html"
         }
       },
       "version": ""
