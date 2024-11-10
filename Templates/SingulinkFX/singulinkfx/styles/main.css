@@ -25,8 +25,8 @@ h1, h2, h3, h4, h5 {
 
 /* Modifies appearance of table header */
 table th {
-  color: #505050;
-  background-color: #b4b8b9;
+  color: #00305B;
+  background-color: #4be19b;
   text-transform: none;
   font-family: Raleway,sans-serif;
   font-weight: bold;
@@ -36,13 +36,13 @@ table th {
 
 /* Modifies appearance of table rows */
 .table tr:nth-child(even) {
-  color: #505050;
+  color: var(--text-color);
   background: #f6f6f6;
   font-family: Poppins-Extralight,Poppins,sans-serif;
 }
 
 .table tr:nth-child(odd) {
-  color: #505050;
+  color: var(--text-color);
   background: #ffffff;
   font-family: Poppins-Extralight,Poppins,sans-serif;
 }
@@ -204,4 +204,20 @@ h1, h2 {
   margin-left:auto;
   margin-right:auto;
   }
+}
+
+ul.level4 > li > a, ul.level4 > li > a.sidebar-item {
+    margin-left: 17px;
+    color: var(--sidebar-item-color);
+}
+
+ul.level5 > li > a, ul.level5 > li > a.sidebar-item {
+    margin-left: -2px;
+    margin-bottom: 2px;
+    color: var(--sidebar-item-color);
+}
+
+ul.level4 .expand-stub {
+    top: 1px;
+    margin-left: 15px;
 }
