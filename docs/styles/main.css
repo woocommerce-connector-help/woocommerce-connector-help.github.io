@@ -228,6 +228,5 @@ article ol li, article ul li {
 }
 
 #breadcrumb wbr, .hide, .sidetoc li>ul, ul.level1>li>.expand-stub {
-    display: none;
     margin-bottom: 5px;
 }
