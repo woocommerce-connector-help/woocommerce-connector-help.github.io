@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: BC 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 11/17/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -28,6 +28,7 @@ To learn more about how to get started with the WooCommerce Connector app, in th
 | Learn about the WooCommerce Connector app in a production environment. | [Production environment](production-environment.md) |
 | Learn about WooCommerce Connector app pricing. | [WooCommerce Connector app pricing](woocommerce-connector-app-pricing.md) |
 | Learn how to buy a subscription. | [Buy a subscription](buy-subscription.md) |
+| Learn how to view your billing information. | [View your billing information](view-billing-information.md) |
 | Learn about the WooCommerce Connector app in a on-premises environment. | [On-premises environment](on-premises-environment.md) |
 | Learn about language support. | [Language support](language-support.md) |
 | Learn about Business Central supported editions. | [Business Central supported editions](business-central-supported-editions.md) |

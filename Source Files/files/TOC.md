@@ -12,6 +12,7 @@
 ### [Production environment](production-environment.md)
 ### [WooCommerce Connector app pricing](woocommerce-connector-app-pricing.md)
 ### [Buy a subscription](buy-subscription.md)
+### [View your billing information](view-billing-information.md)
 ### [Additional paid features](additional-paid-features.md)
 ### [On-premises environment](on-premises-environment.md)
 ### [Language support](language-support.md)

@@ -1,12 +1,12 @@
 ---
-title: API consumer keys and secret
-description: 
+title: API consumer key and consumer secret
+description: Learn about the API consumer key and consumer secret.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 11/17/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->

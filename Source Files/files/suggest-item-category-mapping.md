@@ -1,6 +1,6 @@
 ---
 title: Suggest item category mapping
-description: 
+description: Learn how to have the WooCommerce app suggest item category mapping.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0

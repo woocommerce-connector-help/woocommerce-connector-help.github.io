@@ -1,6 +1,6 @@
 ---
 title: Item category mapping
-description: 
+description: Learn about item category mapping.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0

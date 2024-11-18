@@ -1,6 +1,6 @@
 ---
 title: Buy a subscription
-description: 
+description: Learn how to buy a subscription.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,7 +14,25 @@ date: 11/10/2024
 
 # Buy a subscription
 
-Content coming soon.
+After you install the WooCommerce Connector app in your production environment, you must buy a subscription for the app.
+
+## To buy a subscription
+
+1. In the following notification, select the <i>Buy subscription</i> link:
+
+   <i>Thank you for trying out the WooCommerce Connector app. Your trial period expires in 15 days. Do you want to get a subscription? Buy subscription...</i>
+
+   The <b>Choose a starting plan</b> page opens in a <b>Create Subscription</b> wizard.
+
+1. On the row with a <b>Product Name</b> of <i>WooCommerce Connector</i>, select the checkbox, and then choose <b>Next</b>.
+
+   The <b>Customer details</b> wizard page opens.
+
+1. Specify your billing information, and then choose <b>Next</b>.
+
+1. Specify your credit card information.
+
+   Your subscription becomes active.
 
 ## Feedback
 

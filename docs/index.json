@@ -6,7 +6,7 @@
   },
   "files/api-consumer-key-consumer-secret.html": {
     "href": "files/api-consumer-key-consumer-secret.html",
-    "title": "API consumer keys and secret | WooCommerce Connector Help",
+    "title": "API consumer key and consumer secret | WooCommerce Connector Help",
     "keywords": "API consumer key and consumer secret For API communication between Business Central and your online store, the WooCommerce Connector uses a consumer key and consumer secret. The WooCommerce Connector uses the consumer key and secret for authentication and access control purposes. Generate an API consumer key and secret For information about how to generate an API consumer key and secret, go to WooCommerce REST API. Passing consumer key and secret through the authorization header or as query string parameters Typically, the WooCommerce Connector passes the consumer key and secret through the authorization header in the HTTP request. However, there may be cases where servers have issues parsing the authorization header correctly. To prevent these parsing issues, the WooCommerce Connector provides the capability for you to specify that the consumer key and secret be passed as query string parameters, instead of through the authorization header. Important Important: Passing the consumer key and secret as query string parameters is less secure than passing the consumer key and secret using the authorization header. It is recommended that you only pass the consumer key and secret as query string parameters when this method of authentication is absolutely necessary. To set up the WooCommerce Connector to pass the consumer key and secret as query string parameters Choose , enter woocommerce connector setup, and then choose the related link. The WooCommerce Connector Setup page opens. Turn on API Key as Query Param. See also Set up the WooCommerce Connector app Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
   "files/business-central-supported-editions.html": {
@@ -17,7 +17,7 @@
   "files/buy-subscription.html": {
     "href": "files/buy-subscription.html",
     "title": "Buy a subscription | WooCommerce Connector Help",
-    "keywords": "Buy a subscription Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+    "keywords": "Buy a subscription After you install the WooCommerce Connector app in your production environment, you must buy a subscription for the app. To buy a subscription In the following notification, select the Buy subscription link: Thank you for trying out the WooCommerce Connector app. Your trial period expires in 15 days. Do you want to get a subscription? Buy subscription... The Choose a starting plan page opens in a Create Subscription wizard. On the row with a Product Name of WooCommerce Connector, select the checkbox, and then choose Next. The Customer details wizard page opens. Specify your billing information, and then choose Next. Specify your credit card information. Your subscription becomes active. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
   "files/coupons.html": {
     "href": "files/coupons.html",
@@ -47,7 +47,7 @@
   "files/getting-started.html": {
     "href": "files/getting-started.html",
     "title": "Getting started | WooCommerce Connector Help",
-    "keywords": "Getting started Before you can get started with the WooCommerce Connector app, you must have a WooCommerce online store and a Business Central environment. Your Business Central environment can be online or on-premises. Typically, you install, and then set up the app in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment. To learn more about how to get started with the WooCommerce Connector app, in the following table, select the links. To See Learn about the WooCommerce Connector app in a sandbox environment. Sandbox environment Learn how to install the WooCommerce Connector app from Microsoft AppSource. Install the WooCommerce Connector app from Microsoft AppSource Learn how to set up the WooCommerce Connector app. Set up the WooCommerce Connector app Learn about the WooCommerce Connector app in a production environment. Production environment Learn about WooCommerce Connector app pricing. WooCommerce Connector app pricing Learn how to buy a subscription. Buy a subscription Learn about the WooCommerce Connector app in a on-premises environment. On-premises environment Learn about language support. Language support Learn about Business Central supported editions. Business Central supported editions Learn about extending the WooCommerce Connector app. Extend the WooCommerce Connector app Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+    "keywords": "Getting started Before you can get started with the WooCommerce Connector app, you must have a WooCommerce online store and a Business Central environment. Your Business Central environment can be online or on-premises. Typically, you install, and then set up the app in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment. To learn more about how to get started with the WooCommerce Connector app, in the following table, select the links. To See Learn about the WooCommerce Connector app in a sandbox environment. Sandbox environment Learn how to install the WooCommerce Connector app from Microsoft AppSource. Install the WooCommerce Connector app from Microsoft AppSource Learn how to set up the WooCommerce Connector app. Set up the WooCommerce Connector app Learn about the WooCommerce Connector app in a production environment. Production environment Learn about WooCommerce Connector app pricing. WooCommerce Connector app pricing Learn how to buy a subscription. Buy a subscription Learn how to view your billing information. View your billing information Learn about the WooCommerce Connector app in a on-premises environment. On-premises environment Learn about language support. Language support Learn about Business Central supported editions. Business Central supported editions Learn about extending the WooCommerce Connector app. Extend the WooCommerce Connector app Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
   "files/index.html": {
     "href": "files/index.html",
@@ -137,7 +137,7 @@
   "files/production-environment.html": {
     "href": "files/production-environment.html",
     "title": "Production environment | WooCommerce Connector Help",
-    "keywords": "Production environment After you are familiar with how the WooCommerce Connector app works and have successfully tested the app in your sandbox environment, you can then implement the app in your production environment. You configure the app in your production environment using the same procedures as you used for your sandbox environment. After you install the app in your production environment, you must buy a subscription for the app. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+    "keywords": "Production environment After you are familiar with how the WooCommerce Connector app works and have successfully tested the app in your sandbox environment, you can then implement the app in your production environment. You configure the app in your production environment using the same procedures as you used for your sandbox environment. After you install the app in your production environment, you must buy a subscription for the app. For more information about buying a subscription, go to Buy a subscription. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
   "files/pull-webstore-items.html": {
     "href": "files/pull-webstore-items.html",
@@ -243,6 +243,11 @@
     "href": "files/use-in-webstore.html",
     "title": "Use in webstore | WooCommerce Connector Help",
     "keywords": "Use in webstore Content coming soon. Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
+  },
+  "files/view-billing-information.html": {
+    "href": "files/view-billing-information.html",
+    "title": "View your billing information | WooCommerce Connector Help",
+    "keywords": "View your billing information You can view your WooCommerce Connector app billing information from the Customer Portal. To view your billing information Choose , enter woocommerce connector setup, and then choose the related link. The WooCommerce Connector Setup page opens. On the action bar, choose Subscription > Customer Portal. See also Getting started Feedback To send feedback about this page, select the following link: srdjan@synfynal.com"
   },
   "files/webstore-payment-method.html": {
     "href": "files/webstore-payment-method.html",
