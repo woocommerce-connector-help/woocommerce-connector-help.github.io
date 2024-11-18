@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 11/17/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,7 +14,11 @@ date: 11/10/2024
 
 # Install the WooCommerce Connector app from Microsoft AppSource
 
-Content coming soon.
+To learn about the WooCommerce Connector app that is available on Microsoft AppSource, select the following link:
+
+<a href="https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.synfynal%7CAID.woocommerce-connector%7CPAPPID.91445282-543f-41e8-825c-a1186639bb82?tab=Overview" target="_blank">WooCommerce Connector</a>
+
+For information about how to install an app in Business Central, go to <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/ui-extensions-install-uninstall" target="_blank">Install and Uninstall Extensions (Apps) in Business Central</a>.
 
 ## Feedback
 

@@ -45,10 +45,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/api-consumer-keys-secret.md",
+      "source_relative_path": "files/api-consumer-key-consumer-secret.md",
       "output": {
         ".html": {
-          "relative_path": "files/api-consumer-keys-secret.html"
+          "relative_path": "files/api-consumer-key-consumer-secret.html"
         }
       },
       "version": ""
@@ -379,6 +379,16 @@
       "output": {
         "resource": {
           "relative_path": "files/media/synfynal2-48x48.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/ui-search/search_small.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/ui-search/search_small.png"
         }
       },
       "version": ""
