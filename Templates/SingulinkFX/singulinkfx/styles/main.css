@@ -221,3 +221,8 @@ ul.level4 .expand-stub {
     top: 1px;
     margin-left: 15px;
 }
+
+article ol li, article ul li {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
