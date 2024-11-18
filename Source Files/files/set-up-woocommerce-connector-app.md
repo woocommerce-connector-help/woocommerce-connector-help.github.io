@@ -56,7 +56,7 @@ After you have installed the WooCommerce Connector app, you must complete some s
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
-  For information about item category mapping, go to <a href="item-category-mapping.md" target="_blank">Item category mapping</a>.
+   For information about item category mapping, go to <a href="item-category-mapping.md" target="_blank">Item category mapping</a>.
 
 1. More content coming soon.
 
