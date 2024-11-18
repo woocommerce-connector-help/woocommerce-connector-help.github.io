@@ -230,3 +230,11 @@ article ol li, article ul li {
 #breadcrumb wbr, .hide, .sidetoc li>ul, ul.level1>li>.expand-stub {
     margin-bottom: 5px;
 }
+
+ul.breadcrumb {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    font-size: 14px;
+    flex-wrap: wrap;
+}
