@@ -7,7 +7,7 @@
 ### [Sandbox environment](sandbox-environment.md)
 ### [Install the WooCommerce Connector app from Microsoft AppSource](install-woocommerce-connector-app-from-microsoft-appsource.md)
 ### [Set up the WocCommerce Connector app](set-up-woocommerce-connector-app.md)
-#### [API consumer keys and secret](api-consumer-keys-secret.md)
+#### [API consumer key and consumer secret](api-consumer-keys-secret.md)
 ##### [Troubleshoot API issues](troubleshoot-api-issues.md)
 ### [Production environment](production-environment.md)
 ### [WooCommerce Connector app pricing](woocommerce-connector-app-pricing.md)
