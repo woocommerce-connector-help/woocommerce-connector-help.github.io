@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 11/17/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -18,7 +18,7 @@ After you are familiar with how the WooCommerce Connector app works and have suc
 
 You configure the app in your production environment using the same procedures as you used for your sandbox environment.
 
-After you install the app in your production environment, you must buy a subscription for the app.
+After you install the app in your production environment, you must buy a subscription for the app. For more information about buying a subscription, go to [Buy a subscription](buy-subscription.md).
 
 ## See also
 

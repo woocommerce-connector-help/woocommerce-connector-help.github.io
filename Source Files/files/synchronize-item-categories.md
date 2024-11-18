@@ -1,6 +1,6 @@
 ---
 title: Synchronize item categories
-description: 
+description: Learn how to synchronize item categories.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
