@@ -28,6 +28,10 @@ When you use this feature, the WooCommerce Connector app automatically maps item
 
 1. On the action bar, choose <b>Webstore</b> > <b>Suggest Item Category Mapping</b>.
 
+## See also
+
+[Item category mapping](item-category-mapping.md)
+
 ## Feedback
 
 To send feedback about this page, select the following link:
