@@ -238,3 +238,12 @@ ul.breadcrumb {
     font-size: 14px;
     flex-wrap: wrap;
 }
+
+.alert>p, table td {
+    font-weight: normal;
+}
+
+.alert>p, blockquote>p {
+    margin: 0;
+    font-size: 16px;
+}
