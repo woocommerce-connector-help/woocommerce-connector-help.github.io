@@ -340,7 +340,7 @@ pre, legend {
 
 p {
     font-weight: normal;
-    margin-block-start: 0px;
+    margin-block-start: 10px;
 }
 
 ul.level4 .expand-stub {
@@ -366,4 +366,11 @@ ul.level6 > li > a, ul.level6 > li > a.sidebar-item {
 ul.level7 > li > a, ul.level6 > li > a.sidebar-item {
     margin-left: -22px;
     color: var(--sidebar-item-color);
+}
+
+.alert.alert-info {
+    border: 2px solid var(--alert-info-border-color);
+    background: var(--alert-info-bg-color);
+    margin-block-start: 1em;
+    margin-block-end: 1em;
 }
