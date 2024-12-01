@@ -1,5 +1,5 @@
 ---
-title: Push webstore items
+title: Synchronize new and modified items from your WooCommerce store
 description: 
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 11/10/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
-# Push webstore items
+# Synchronize new and modified items from your WooCommerce store
 
 Content coming soon.
 
@@ -20,4 +20,4 @@ Content coming soon.
 
 To send feedback about this page, select the following link:
 
-[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20push-webstore-items)
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20synchronize-new-modified-items-from-your-woocommerce-store)

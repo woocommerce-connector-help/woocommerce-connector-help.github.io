@@ -1,6 +1,6 @@
 ---
 title: Production environment
-description: Learn about the WooCommerce Connector app in a production environment.
+description: Learn about the WooCommerce Connector in a production environment.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,7 +14,7 @@ date: 11/17/2024
 
 # Production environment
 
-After you are familiar with how the WooCommerce Connector app works and have successfully tested the app in your sandbox environment, you can then implement the app in your production environment.
+After you are familiar with how the WooCommerce Connector works and have successfully tested the app in your sandbox environment, you can then implement the app in your production environment.
 
 You configure the app in your production environment using the same procedures as you used for your sandbox environment.
 

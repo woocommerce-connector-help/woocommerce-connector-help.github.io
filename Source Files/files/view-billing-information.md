@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # View your billing information
 
-You can view your WooCommerce Connector app billing information from the <b>Customer Portal</b>.
+You can view your WooCommerce Connector billing information from the <b>Customer Portal</b>.
 
 ## To view your billing information
 

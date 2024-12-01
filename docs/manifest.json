@@ -75,6 +75,86 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/configure-automatic-synchronization.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-automatic-synchronization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/configure-default-customer-template-per-country-region.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-default-customer-template-per-country-region.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/configure-pull-item-category-data-from-your-woocommerce-store-to-bc.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-pull-item-category-data-from-your-woocommerce-store-to-bc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/configure-pull-item-data-from-your-woocommerce-store-to-bc.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-pull-item-data-from-your-woocommerce-store-to-bc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/configure-push-item-category-data-from-bc-to-your-woocommerce-store.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-push-item-category-data-from-bc-to-your-woocommerce-store.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/configure-push-item-data-from-bc-to-your-woocommerce-store.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-push-item-data-from-bc-to-your-woocommerce-store.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/configure-your-woocommerce-store-list-cache-time.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-your-woocommerce-store-list-cache-time.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/configure-your-woocommerce-store-url.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/configure-your-woocommerce-store-url.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/coupons.md",
       "output": {
         ".html": {
@@ -115,10 +195,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/extend-woocommerce-connector-app.md",
+      "source_relative_path": "files/extend-woocommerce-connector.md",
       "output": {
         ".html": {
-          "relative_path": "files/extend-woocommerce-connector-app.html"
+          "relative_path": "files/extend-woocommerce-connector.html"
         }
       },
       "version": ""
@@ -145,10 +225,20 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/install-woocommerce-connector-app-from-microsoft-appsource.md",
+      "source_relative_path": "files/install-woocommerce-connector-from-microsoft-appsource.md",
       "output": {
         ".html": {
-          "relative_path": "files/install-woocommerce-connector-app-from-microsoft-appsource.html"
+          "relative_path": "files/install-woocommerce-connector-from-microsoft-appsource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/item-categories.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-categories.html"
         }
       },
       "version": ""
@@ -475,26 +565,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/pull-webstore-items.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/pull-webstore-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/push-webstore-items.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/push-webstore-items.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "files/return-orders.md",
       "output": {
         ".html": {
@@ -515,16 +585,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/set-up-default-customer-template-per-country-region.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/set-up-default-customer-template-per-country-region.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "files/set-up-multiple-woocommerce-stores.md",
       "output": {
         ".html": {
@@ -535,10 +595,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/set-up-woocommerce-connector-app.md",
+      "source_relative_path": "files/set-up-woocommerce-connector.md",
       "output": {
         ".html": {
-          "relative_path": "files/set-up-woocommerce-connector-app.html"
+          "relative_path": "files/set-up-woocommerce-connector.html"
         }
       },
       "version": ""
@@ -595,20 +655,30 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/synchronize-item-prices-with-values-from-customer-price-groups.md",
+      "source_relative_path": "files/synchronize-item-prices.md",
       "output": {
         ".html": {
-          "relative_path": "files/synchronize-item-prices-with-values-from-customer-price-groups.html"
+          "relative_path": "files/synchronize-item-prices.html"
         }
       },
       "version": ""
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/synchronize-new-modified-items-from-webstore.md",
+      "source_relative_path": "files/synchronize-items.md",
       "output": {
         ".html": {
-          "relative_path": "files/synchronize-new-modified-items-from-webstore.html"
+          "relative_path": "files/synchronize-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-new-modified-items-from-your-woocommerce-store.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-new-modified-items-from-your-woocommerce-store.html"
         }
       },
       "version": ""
@@ -619,16 +689,6 @@
       "output": {
         ".html": {
           "relative_path": "files/synchronize-selected-customers.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-selected-item.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-selected-item.html"
         }
       },
       "version": ""
@@ -675,16 +735,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/use-in-webstore.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/use-in-webstore.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "files/view-billing-information.md",
       "output": {
         ".html": {
@@ -715,10 +765,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/woocommerce-connector-app-pricing.md",
+      "source_relative_path": "files/woocommerce-connector-pricing.md",
       "output": {
         ".html": {
-          "relative_path": "files/woocommerce-connector-app-pricing.html"
+          "relative_path": "files/woocommerce-connector-pricing.html"
         }
       },
       "version": ""

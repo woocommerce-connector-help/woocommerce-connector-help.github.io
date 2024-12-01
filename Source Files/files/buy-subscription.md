@@ -14,13 +14,13 @@ date: 11/10/2024
 
 # Buy a subscription
 
-After you install the WooCommerce Connector app in your production environment, you must buy a subscription for the app.
+After you install the WooCommerce Connector in your production environment, you must buy a subscription for the app.
 
 ## To buy a subscription
 
 1. In the following notification, select the <i>Buy subscription</i> link:
 
-   <i>Thank you for trying out the WooCommerce Connector app. Your trial period expires in 15 days. Do you want to get a subscription? Buy subscription...</i>
+   <i>Thank you for trying out the WooCommerce Connector. Your trial period expires in 15 days. Do you want to get a subscription? Buy subscription...</i>
 
    The <b>Choose a starting plan</b> page opens in a <b>Create Subscription</b> wizard.
 
