@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # On-premises environment
 
-The WooCommerce Connector app is available for use in on-premises environments. Instead of installing the app from Microsoft AppSource, you must contact the WooCommerce Connector app <a href="https://www.synfynal.com/contact" target="_blank">support</a> team.
+The WooCommerce Connector is available for use in on-premises environments. Instead of installing the app from Microsoft AppSource, you must contact the WooCommerce Connector <a href="https://www.synfynal.com/contact" target="_blank">support</a> team.
 
 ## See also
 

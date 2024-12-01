@@ -1,6 +1,6 @@
 ---
 title: Business Central supported editions
-description: Learn which versions of Business Central are compatible with the WooCommerce Connector app.
+description: Learn which versions of Business Central are compatible with the WooCommerce Connector.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # Business Central supported editions
 
-The WooCommerce Connector app is compatible with the Essential and Premium editions of Microsoft Dynamics 365 Business Central.
+The WooCommerce Connector is compatible with the Essential and Premium editions of Microsoft Dynamics 365 Business Central.
 
 ## Feedback
 

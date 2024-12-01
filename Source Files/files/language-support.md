@@ -1,6 +1,6 @@
 ---
 title: Language support
-description: Learn about WooCommerce Connector app language support.
+description: Learn about WooCommerce Connector language support.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # Language support
 
-The WooCommerce Connector app is fully supported in all Business Central languages. For more information about Business Central supported languages, go to <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations" target="_blank">Country/regional availability and supported languages</a>.
+The WooCommerce Connector is fully supported in all Business Central languages. For more information about Business Central supported languages, go to <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations" target="_blank">Country/regional availability and supported languages</a>.
 
 ## Getting started
 

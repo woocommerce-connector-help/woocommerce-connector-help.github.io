@@ -1,6 +1,6 @@
 ---
 title: Additional paid features
-description: Learn about the WooCommerce Connector app additional paid features.
+description: Learn about the WooCommerce Connector additional paid features.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,11 +14,11 @@ date: 11/10/2024
 
 # Additional paid features
 
-If required, you can purchase additional modules for the WooCommerce Connector app. 
+If required, you can purchase additional modules for the WooCommerce Connector. 
 
 The following additional paid feature modules are available for purchase:
 
-- Product variations as items: The product variations as items feature provides the capability for you to seamlessly synchronize your product variations from WooCommerce to Business Central as regular items. For more information, go to [Product variations as items](product-variations-as-items.md).
+- Product variations as items: The product variations as items feature provides the capability for you to seamlessly synchronize the product variations from your WooCommerce store to Business Central as regular items. For more information, go to [Product variations as items](product-variations-as-items.md).
 
 - Metadata synchronization: The metadata synchronization feature provides the capability for you to synchronize specified metadata values from a response into a specific field in Business Central. For more information, go to [Metadata synchronization](metadata-synchronization.md).
 

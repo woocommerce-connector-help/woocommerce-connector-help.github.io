@@ -1,12 +1,12 @@
 ---
 title: Items
-description: 
+description: Learn about item synchronization.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 11/24/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,7 +14,31 @@ date: 11/10/2024
 
 # Items
 
-Content coming soon.
+Items are the goods or services that your business sells.
+
+The following list describes some of the features that the WooCommerce Connector provides related to items:
+
+- Two-way configurable item synchronization between your WooCommerce store and Business Central. 
+- Configure the items that you want to include in your WooCommerce Store from Business Central and set the direction of the synchronization flow.
+- Synchronize items, including item categories, variants, and attributes.
+- Synchronize inventory levels.
+- Connect existing items between your WooCommerce store and Business Central with automated record mapping based on your product names.
+- Support of item templates for setting default values, such as posting groups, costing method, or unit of measure.
+
+## Item configuration
+
+The WooCommerce Connector provides the capability for you to configure how item data is synchronized between your WooCommerce store and Business Central.
+
+To learn more about item configuration in the WooCommerce Connector, in the following table, select the links.
+
+| To | See |
+|---|---|
+| Learn about configuring item categories. | [Item categories](item-categories.md) |
+| Learn how to configure the push of item data from Business Central to your WooCommerce store. | [Configure the push of item data from Business Central to your WooCommerce store](configure-push-item-data-from-bc-to-your-woocommerce-store.md) |
+| Learn how to configure the pull of item data from your WooCommerce store to Business Central. | [Configure the pull of item data from your WooCommerce store to Business Central](configure-pull-item-data-from-your-woocommerce-store-to-bc.md) |
+| Learn about item mapping. | [Item mapping](item-mapping.md) |
+| Learn about configuring item prices. | [Item prices](item-prices.md) |
+| Learn about configuring item variants. | [Item variants](item-variants.md) |
 
 ## Feedback
 

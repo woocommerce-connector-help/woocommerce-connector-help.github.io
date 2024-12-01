@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/17/2024
+date: 12/01/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,11 +14,23 @@ date: 11/17/2024
 
 # API consumer key and consumer secret
 
-For API communication between Business Central and your online store, the WooCommerce Connector uses a consumer key and consumer secret. The WooCommerce Connector uses the consumer key and secret for authentication and access control purposes.
+For API communication between Business Central and your WooCommerce store, the WooCommerce Connector uses a consumer key and consumer secret. The WooCommerce Connector uses the consumer key and secret for authentication and access control purposes.
 
 ## Generate an API consumer key and secret
 
-For information about how to generate an API consumer key and secret, go to <a href="" target="_blank">WooCommerce REST API</a>.
+For information about how to generate an API consumer key and secret, go to <a href="https://woocommerce.com/document/woocommerce-rest-api/" target="_blank">WooCommerce REST API</a>.
+
+The WooCommerce Connector supports saving the entire consumer key that is generated from WooCommerce. Although the full key is saved, the WooCommerce Connector masks and displays only the first 10 characters.
+
+### To configure the consumer key and secret in the WooCommerce Connector
+
+1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
+
+   The <b>WooCommerce Connector Setup</b> page opens.
+
+1. In <b>Consumer Key</b>, specify the consumer key that you generated in WooCommerce.
+
+1. In <b>Consumer Secret</b>, specify the consumer key that you generated in WooCommerce.
 
 ## Passing consumer key and secret through the authorization header or as query string parameters
 
@@ -27,7 +39,7 @@ Typically, the WooCommerce Connector passes the consumer key and secret through 
 > [!IMPORTANT]
 > <b>Important</b>:<br>Passing the consumer key and secret as query string parameters is less secure than passing the consumer key and secret using the authorization header. It is recommended that you only pass the consumer key and secret as query string parameters when this method of authentication is absolutely necessary.
 
-## To set up the WooCommerce Connector to pass the consumer key and secret as query string parameters
+### To configure the WooCommerce Connector to pass the consumer key and secret as query string parameters
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -37,7 +49,8 @@ Typically, the WooCommerce Connector passes the consumer key and secret through 
 
 ## See also
 
-[Set up the WooCommerce Connector app](set-up-woocommerce-connector-app.md)
+[Set up the WooCommerce Connector](set-up-woocommerce-connector.md)  
+[Troubleshoot API issues](troubleshoot-api-issues.md)
 
 ## Feedback
 

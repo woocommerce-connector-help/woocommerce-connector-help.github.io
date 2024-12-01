@@ -1,6 +1,6 @@
 ---
 title: Sandbox environment
-description: Learn about the WooCommerce Connector app in a sandbox environment.
+description: Learn about the WooCommerce Connector in a sandbox environment.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,7 +14,7 @@ date: 11/10/2024
 
 # Sandbox environment
 
-Typically, you install, and then set up the WooCommerce Connector app in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment.
+Typically, you install, and then set up the WooCommerce Connector in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment.
 
 A subscription is not necessary to use the app in a sandbox environment. You only have to pay for the app when you use the app in your production environment.
 
