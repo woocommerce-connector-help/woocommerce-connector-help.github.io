@@ -38,7 +38,7 @@ You can synchronize all items or choose to synchronize only selected items.
 
 ## See also
 
-[Item category mapping](item-category-mapping.md)
+[Item mapping](item-mapping.md)
 
 ## Feedback
 
