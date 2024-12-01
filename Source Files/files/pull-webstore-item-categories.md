@@ -32,4 +32,4 @@ You can configure how the WooCommerce Connector is to pull item category data fr
 
 To send feedback about this page, select the following link:
 
-[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20configure-pull-item-category-data-from-your-woocommerce-store-to-bc)
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20pull-webstore-item-categories)

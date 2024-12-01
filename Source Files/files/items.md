@@ -10,7 +10,7 @@ date: 11/24/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
 # Items
 
@@ -34,8 +34,10 @@ To learn more about item configuration in the WooCommerce Connector, in the foll
 | To | See |
 |---|---|
 | Learn about configuring item categories. | [Item categories](item-categories.md) |
-| Learn how to configure the push of item data from Business Central to your WooCommerce store. | [Configure the push of item data from Business Central to your WooCommerce store](configure-push-item-data-from-bc-to-your-woocommerce-store.md) |
-| Learn how to configure the pull of item data from your WooCommerce store to Business Central. | [Configure the pull of item data from your WooCommerce store to Business Central](configure-pull-item-data-from-your-woocommerce-store-to-bc.md) |
+| Learn about configuring the default item template. | [Default item template](default-item-template.md) |
+| Learn about configuring the default location code. | [Default location code](default-location-code.md) |
+| Learn how to configure the push of item data from Business Central to your WooCommerce store. | [Push webstore items](push-webstore-items.md) |
+| Learn how to configure the pull of item data from your WooCommerce store to Business Central. | [Pull webstore items](pull-webstore-items.md) |
 | Learn about item mapping. | [Item mapping](item-mapping.md) |
 | Learn about configuring item prices. | [Item prices](item-prices.md) |
 | Learn about configuring item variants. | [Item variants](item-variants.md) |
