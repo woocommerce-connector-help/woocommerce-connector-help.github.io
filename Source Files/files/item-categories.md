@@ -20,8 +20,8 @@ To learn more about item category configuration, in the following table, select 
 
 | To | See |
 |---|---|
-| Learn how to configure the push of item category data from Business Central to your WooCommerce store. | [Configure the push of item category data from Business Central to your WooCommerce store](configure-push-item-category-data-from-bc-to-your-woocommerce-store.md) |
-| Learn how to configure the pull of item category data from your WooCommerce store to Business Central. | [Configure the pull of item category data from your WooCommerce store to Business Central](configure-pull-item-category-data-from-your-woocommerce-store-to-bc.md) |
+| Learn how to configure the push of item category data from Business Central to your WooCommerce store. | [Push webstore item categories](push-webstore-item-categories.md) |
+| Learn how to configure the pull of item category data from your WooCommerce store to Business Central. | [Pull webstore item categories](pull-webstore-item-categories.md) |
 | Learn about item category mapping. | [Item category mapping](item-category-mapping.md) |
 | Learn how to have the WooCommerce Connector automatically suggest item category mapping. | [Suggest item category mapping](suggest-item-category-mapping.md) |
 | Learn how to synchronize item categories. | [Synchronize item categories](synchronize-item-categories.md) |

@@ -1,5 +1,5 @@
 ---
-title: Configure your WooCommerce store list cache time
+title: Webstore list cache time
 description: Learn how to configure your WooCommerce store list cache time.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 12/01/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-# Configure your WooCommerce store list cache time
+# Webstore list cache time
 
 To reduce the number of times that the WooCommerce Connector must request data from WooCommerce, the WooCommerce Connector stores records in a Business Central cache. For example, when mapping items, the WooCommerce Connector loads item records from your WooCommerce store into the cache. This design allows the mapping to be completed with one request to WooCommerce instead of having to send a request to WooCommerce for each item.
 
@@ -30,4 +30,4 @@ To maintain the size of the cache, the WooCommerce Connector provides the capabi
 
 To send feedback about this page, select the following link:
 
-[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20configure-your-woocommerce-store-list-cache-time)
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20webstore-list-cache-time)

@@ -1,5 +1,5 @@
 ---
-title: Configure automatic synchronization
+title: Automatic synchronization
 description: Learn how to enable or disable automatic synchronization.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 12/01/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
 
-# Configure automatic synchronization
+# Automatic synchronization
 
 As required you can enable or disable automatic synchronization. Also, you can set the number of minutes between automatic synchronizations.
 
@@ -54,4 +54,4 @@ Additionally, you can configure the length of time that the Woocommerce Connecto
 
 To send feedback about this page, select the following link:
 
-[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20configure-automatic-synchronization)
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20automatic-synchronization)

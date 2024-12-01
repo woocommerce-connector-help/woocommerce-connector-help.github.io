@@ -1,5 +1,5 @@
 ---
-title: Configure the pull of item data from your WooCommerce store to Business Central
+title: Pull webstore items
 description: Learn how to configure the pull of item data from your WooCommerce store to Business Central.
 author: Bryon Burke
 product: WooCommerce Connector Help
@@ -12,7 +12,7 @@ date: 11/24/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-# Configure the pull of item data from your WooCommerce store to Business Central
+# Pull webstore items
 
 You can configure how the WooCommerce Connector is to pull item data from your WooCommerce store into Business Central.
 
@@ -32,4 +32,4 @@ You can configure how the WooCommerce Connector is to pull item data from your W
 
 To send feedback about this page, select the following link:
 
-[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20configure-pull-item-data-from-your-woocommerce-store-to-bc)
+[srdjan@synfynal.com](mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20pull-webstore-items)
