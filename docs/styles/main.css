@@ -346,3 +346,28 @@ p {
     font-weight: normal;
     margin-block-start: 0px;
 }
+
+ul.level4 .expand-stub {
+    top: 1px;
+    margin-left: 16px;
+}
+
+ul.level5 .expand-stub {
+    top: 1px;
+    margin-left: -4px;
+}
+
+ul.level6 .expand-stub {
+    top: 1px;
+    margin-left: -24px;
+}
+
+ul.level6 > li > a, ul.level6 > li > a.sidebar-item {
+    margin-left: -22px;
+    color: var(--sidebar-item-color);
+}
+
+ul.level7 > li > a, ul.level6 > li > a.sidebar-item {
+    margin-left: -22px;
+    color: var(--sidebar-item-color);
+}
