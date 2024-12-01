@@ -21,6 +21,10 @@ Synchronization of item prices between Business Central and your WooCommerce sto
 
 For information about how to synchronize items, go to [Synchronize items](synchronize-items.md).
 
+## See also
+
+[Item prices](item-prices.md)
+
 ## Feedback
 
 To send feedback about this page, select the following link:
