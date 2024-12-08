@@ -22,7 +22,7 @@ You can configure how the WooCommerce Connector is to pull item category data fr
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, specify one of the following options:
+1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Item Categories</b>, specify one of the following options:
 
      - <i>All</i> : The WooCommerce Connector synchronizes all item category records from your WooCommerce store to Business Central.
      - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item category records from your WooCommerce store to Business Central.

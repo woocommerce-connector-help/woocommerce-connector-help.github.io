@@ -1,12 +1,12 @@
 ---
 title: Item variants
-description: 
+description: Learn about item variants.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 12/7/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -14,7 +14,18 @@ date: 11/10/2024
 
 # Item variants
 
-Content coming soon.
+Item Variants are unique versions of a product that differ in one or more attributes such as size, color, or material. These variants help businesses offer a diverse range of options to their customers, which can enhance the overall shopping experience and increase sales.
+
+To learn more about item variants configuration in the WooCommerce Connector, in the following table, select the links.
+
+| To | See |
+|---|---|
+| Learn about item variant mapping. | [Item variant mapping](item-variant-mapping.md) |
+| Learn how to create item variants automatically. | [Create item variants automatically](create-item-variants-automatically.md) |
+
+## See also
+
+[Items](items.md)
 
 ## Feedback
 

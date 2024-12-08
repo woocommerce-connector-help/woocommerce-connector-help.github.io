@@ -10,7 +10,7 @@ date: 11/10/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
 # Push webstore items
 
@@ -22,7 +22,7 @@ You can configure how the WooCommerce Connector is to push item data from Busine
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Push Webstore Items</b>, specify specify one of the following options:
+1. On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b>, in <b>Items</b>, specify one of the following options:
      - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item records from Business Central to your WooCommerce store.
      - <i>None</i> : The WooCommerce Connector does not synchronize item records from Business Central to your WooCommerce store.
 

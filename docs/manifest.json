@@ -245,6 +245,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/item-pull-synchronization-start-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/item-pull-synchronization-start-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/item-variant-mapping.md",
       "output": {
         ".html": {
@@ -349,6 +359,16 @@
       "output": {
         "resource": {
           "relative_path": "files/media/5d657047-7f63-47e9-bb66-2f6ed8bbda35.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/Back.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/Back.PNG"
         }
       },
       "version": ""
@@ -665,6 +685,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/synchronize-item-variants.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-item-variants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/synchronize-items.md",
       "output": {
         ".html": {
@@ -689,6 +719,16 @@
       "output": {
         ".html": {
           "relative_path": "files/synchronize-selected-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronize-webstore-item-mapping.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronize-webstore-item-mapping.html"
         }
       },
       "version": ""
