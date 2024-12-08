@@ -38,9 +38,9 @@ You can configure the WooCommerce Connector to update the item prices in your Wo
 
 1. In <b>Regular Price</b>, specify one of the following options:
 
-     - <i>Unit Price</i> : If you specify <i>Unit Price</i>, during synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Item Card</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store.
+     - <i>Unit Price</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Item Card</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store.
 
-     - <i>Customer Price Group</i> : If you specify <i>Customer Price Group</i>, the WooCommerce Connector displays a <b>Customer Price Group</b> field. You must specify the customer price group for which you want the WooCommerce Connector to push the <b>Unit Price</b> on the <b>Customer Price Group</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store.
+     - <i>Customer Price Group</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Customer Price Group</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store. When you specify <i>Customer Price Group</i>, the WooCommerce Connector displays a <b>Customer Price Group</b> field where you must specify the customer price group to use during synchronization.
 
 ## Sales price
 

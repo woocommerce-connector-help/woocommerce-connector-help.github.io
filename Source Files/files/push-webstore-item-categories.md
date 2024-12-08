@@ -22,7 +22,7 @@ You can configure how the WooCommerce Connector is to push item category data fr
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Push Webstore Item Categories</b>, specify one of the following options:
+1. On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b> in <b>Item Categories</b>, specify one of the following options:
      - <i>Mapped Only</i> : The WooCommerce Connector is to synchronize mapped item category records from Business Central to your WooCommerce store.
      - <i>None</i> : The WooCommerce Connector does not synchronize item category records from Business Central to your WooCommerce store.
 

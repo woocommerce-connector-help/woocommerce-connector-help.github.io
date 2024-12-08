@@ -38,7 +38,8 @@ You can synchronize all items or choose to synchronize only selected items.
 
 ## See also
 
-[Item mapping](item-mapping.md)
+[Item mapping](item-mapping.md)  
+[Item pull synchronization start date](item-pull-synchronization-start-date.md)  
 
 ## Feedback
 

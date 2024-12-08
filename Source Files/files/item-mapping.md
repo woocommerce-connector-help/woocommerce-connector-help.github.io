@@ -18,8 +18,6 @@ The WooCommerce Connector provides the capability for you to map the items that 
 
 To assist with item mapping, the WooCommerce Connector includes a suggest item mapping feature that automatically maps items between your WooCommerce store and Business Central based on their product names or Stock Keeping Unit (SKU) values. For more information, go to [Suggest item mapping](suggest-item-mapping.md).
 
-After you have completed item mapping, you can perform a synchronization. For more information about synchronizing items, go to [Synchronize items](synchronize-items.md).
-
 ## To map items
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
@@ -30,7 +28,7 @@ After you have completed item mapping, you can perform a synchronization. For mo
 
    The <b>Webstore Item Mapping</b> page opens.
 
-1. For each Business Central item that you want to appear in your WooCommerce store and be available for purchase, select the <b>Use In Webstore</b> checkbox.
+1. For each Business Central item that you want to appear in your WooCommerce store and be available for purchase, select the <b>Webstore Item</b> checkbox.
 
    During synchronization, the WooCommerce Connector creates the items in your WooCommerce store.
 
@@ -38,9 +36,16 @@ After you have completed item mapping, you can perform a synchronization. For mo
 
 1. To keep your inventory and sales channels in sync, for each item that exists in Business Central and your WooCommerce store, in <b>Webstore ID</b>, specify the respective Webstore ID.
 
+1. To specify that the WooCommerce Connector is to update the online stock management with the current inventory value, select the <b>Manage Stock on Webstore</b> checkbox for the respective item.
+
+   When the <b>Manage Stock on Webstore</b> checkbox is selected for an item, the WooCommerce Connector pushes the respective item's inventory levels and pricing data from Business Central to WooCommerce during a synchronization. When performing item mapping, you can view an item's pricing and available inventory in the FactBox pane under the <b>Price</b> and <b>Inventory</b> sections.
+
+   You can now perform a synchronization between Business Central and your WooCommerce store. For more information about synchronizing items, go to [Synchronize items](synchronize-items.md).
+
 ## See also
 
-[Set up the WooCommerce Connector](set-up-woocommerce-connector.md) 
+[Set up the WooCommerce Connector](set-up-woocommerce-connector.md)  
+[Items](items.md)  
 
 ## Feedback
 

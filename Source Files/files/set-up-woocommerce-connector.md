@@ -60,14 +60,26 @@ After you have installed the WooCommerce Connector, you must complete some setup
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
-   For information about item category mapping, go to <a href="item-category-mapping.md" target="_blank">Item category mapping</a>.
+   For information about item category configuration, go to <a href="item-categories.md" target="_blank">Item categories</a>.
 
 1. On the third page of the wizard, specify the synchronization options for items between Business Central and your WooCommerce store.
 
    To complete this setup, perform the following steps:
    <ol type="a">
     <li>In <b>Default Item Template</b>, specify the default item template that the WooCommerce Connector is to use when creating items in Business Central that are synchronized from your WooCommerce store.</li>
-    <li>In <b>Default Location Code</b>, specify the location code that you want the WooCommerce Connector to use to determine the available inventory. The WooCommerce Connector also assigns this location code on incoming sales orders.</li>
+    <li>In <b>Default Location Code</b>, specify the location code that you want the WooCommerce Connector to use to determine the available inventory.<br>
+     <p>The WooCommerce Connector also assigns this location code on incoming sales orders.</p></li>
+    <li>In <b>Regular Price</b>, specify one of the following options:
+     <ul>
+      <li><i>Unit Price</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Item Card</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store.</li>
+      <li><i>Customer Price Group</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Customer Price Group</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store. When you specify <i>Customer Price Group</i>, the WooCommerce Connector displays a <b>Customer Price Group</b> field where you must specify the customer price group to use during synchronization.</li>
+     </ul></li>
+    <li>In <b>Marketing Text</b>, specify one of the following options:
+     <ul>
+      <li><i>None</i> : Disables the use of this feature.</li>
+      <li><i>Product Long Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Long Description</b> in your WooCommerce store.</li>
+      <li><i>Product Short Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Short Description</b> in your WooCommerce store.</li>
+     </ul></li>
     <li>In <b>Push Webstore Items</b>, specify specify one of the following options:
      <ul>
       <li><i>Mapped Only</i> : Synchronizes mapped item records from Business Central to your WooCommerce store.</li>
@@ -84,12 +96,13 @@ After you have installed the WooCommerce Connector, you must complete some setup
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
-   For information about item mapping, go to <a href="item-mapping.md" target="_blank">Item mapping</a>.
+   For information about item configuration, go to <a href="items.md" target="_blank">Items</a>.
 
 1. More content coming soon.
 
 ## See also
 
+[Getting started](getting-started.md)  
 [Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md)
 
 ## Feedback

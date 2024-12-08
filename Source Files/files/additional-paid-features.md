@@ -22,7 +22,7 @@ The following additional paid feature modules are available for purchase:
 
 - Metadata synchronization: The metadata synchronization feature provides the capability for you to synchronize specified metadata values from a response into a specific field in Business Central. For more information, go to [Metadata synchronization](metadata-synchronization.md).
 
-These additional paid feature modules require a one time payment.
+These additional paid feature modules require a one time payment. For more information, contact <a href="https://www.synfynal.com/contact" target="_blank">Support</a>.
 
 ## See also
 
