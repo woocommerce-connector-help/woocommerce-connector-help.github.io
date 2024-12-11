@@ -103,7 +103,8 @@ After you have installed the WooCommerce Connector, you must complete some setup
 ## See also
 
 [Getting started](getting-started.md)  
-[Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md)
+[Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md)  
+[Multiple WooCommerce stores](multiple-woocommerce-stores.md)  
 
 ## Feedback
 

@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD006 MD007 MD009 MD022 MD024 MD025 MD033 MD042 -->
-<!--// cspell:ignore markdownlint webstore synfynal -->
+<!--// cspell:ignore markdownlint webstore synfynal webstores -->
 
 # [Welcome to the WooCommerce Connector Help](index.md)
 
@@ -7,7 +7,6 @@
 ### [Sandbox environment](sandbox-environment.md)
 ### [Install the WooCommerce Connector from Microsoft AppSource](install-woocommerce-connector-from-microsoft-appsource.md)
 ### [Set up the WocCommerce Connector app](set-up-woocommerce-connector.md)
-### [Set up multiple WooCommerce stores](set-up-multiple-woocommerce-stores.md)
 ### [Production environment](production-environment.md)
 ### [WooCommerce Connector pricing](woocommerce-connector-pricing.md)
 ### [Buy a subscription](buy-subscription.md)
@@ -56,6 +55,12 @@
 #### [Total shipping amount line](total-shipping-amount-line.md)
 #### [Order fee lines](order-fee-lines.md)
 ### [Return Orders](return-orders.md)
+### [Multiple WooCommerce stores](multiple-woocommerce-stores.md)
+#### [Set up an additional WooCommerce store](set-up-additional-woocommerce-store.md)
+#### [View the list of WooCommerce webstores that are configured in the WooCommerce Connector](view-woocommerce-webstores.md)
+#### [View a mapping page for a webstore](view-mapping-page-for-webstore.md)
+#### [Change the webstore from a mapping page](change-webstore-from-mapping-page.md)
+#### [Access records for all webstores from a mapping page](access-records-from-all-webstores-from-mapping-page.md)
 
 ## [Synchronization](#)
 ### [Automatic synchronization](automatic-synchronization.md)
