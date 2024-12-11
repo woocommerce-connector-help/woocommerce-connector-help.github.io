@@ -35,6 +35,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/access-records-from-all-webstores-from-mapping-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/access-records-from-all-webstores-from-mapping-page.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/additional-paid-features.md",
       "output": {
         ".html": {
@@ -79,6 +89,16 @@
       "output": {
         ".html": {
           "relative_path": "files/buy-subscription.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/change-webstore-from-mapping-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/change-webstore-from-mapping-page.html"
         }
       },
       "version": ""
@@ -475,6 +495,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/multiple-woocommerce-stores.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/multiple-woocommerce-stores.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/on-premises-environment.md",
       "output": {
         ".html": {
@@ -605,10 +635,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/set-up-multiple-woocommerce-stores.md",
+      "source_relative_path": "files/set-up-additional-woocommerce-store.md",
       "output": {
         ".html": {
-          "relative_path": "files/set-up-multiple-woocommerce-stores.html"
+          "relative_path": "files/set-up-additional-woocommerce-store.html"
         }
       },
       "version": ""
@@ -779,6 +809,26 @@
       "output": {
         ".html": {
           "relative_path": "files/view-billing-information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/view-mapping-page-for-webstore.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/view-mapping-page-for-webstore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/view-woocommerce-webstores.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/view-woocommerce-webstores.html"
         }
       },
       "version": ""
