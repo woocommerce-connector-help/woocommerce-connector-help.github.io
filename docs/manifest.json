@@ -155,6 +155,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/default-customer-template.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-customer-template.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-guest-customer.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-guest-customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/default-item-template.md",
       "output": {
         ".html": {
@@ -575,6 +595,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/pull-webstore-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/pull-webstore-customers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/pull-webstore-item-categories.md",
       "output": {
         ".html": {
@@ -589,6 +619,16 @@
       "output": {
         ".html": {
           "relative_path": "files/pull-webstore-items.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/push-webstore-customers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/push-webstore-customers.html"
         }
       },
       "version": ""
@@ -739,16 +779,6 @@
       "output": {
         ".html": {
           "relative_path": "files/synchronize-new-modified-items-from-your-woocommerce-store.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/synchronize-selected-customers.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/synchronize-selected-customers.html"
         }
       },
       "version": ""

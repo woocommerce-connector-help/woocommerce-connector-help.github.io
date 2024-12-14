@@ -6,7 +6,7 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/17/2024
+date: 12/14/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
@@ -47,13 +47,13 @@ After you have installed the WooCommerce Connector, you must complete some setup
    <ol type="a">
     <li>In <b>Push Webstore Item Categories</b>, specify one of the following options:
      <ul>
-      <li><i>Mapped Only</i> : Synchronizes mapped item category records from Business Central to your WooCommerce store.</li>
+      <li><i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item category records from Business Central to your WooCommerce store.</li>
       <li><i>None</i> : Does not synchronize item category records from Business Central to your WooCommerce store.</li>
      </ul></li>
     <li>In <b>Pull Webstore Item Categories</b>, specify one of the following options:
      <ul>
-      <li><i>All</i> : Synchronizes all item category records from your WooCommerce store to Business Central.</li>
-      <li><i>Mapped Only</i> : Synchronizes mapped item category records from your WooCommerce store to Business Central.</li>
+      <li><i>All</i> : The WooCommerce Connector synchronizes all item category records from your WooCommerce store to Business Central.</li>
+      <li><i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item category records from your WooCommerce store to Business Central.</li>
       <li><i>None</i> : Does not synchronize item category records from your WooCommerce store to Business Central.</li>
      </ul></li>
     <li>To open the <b>Webstore Item Category Mapping</b> page, where you can specify the item categories that you want to synchronize between your WooCommerce store and Business Central, choose <b>Record Mapping</b>.</li>
@@ -80,23 +80,47 @@ After you have installed the WooCommerce Connector, you must complete some setup
       <li><i>Product Long Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Long Description</b> in your WooCommerce store.</li>
       <li><i>Product Short Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Short Description</b> in your WooCommerce store.</li>
      </ul></li>
-    <li>In <b>Push Webstore Items</b>, specify specify one of the following options:
+    <li>In <b>Push Webstore Items</b>, specify one of the following options:
      <ul>
-      <li><i>Mapped Only</i> : Synchronizes mapped item records from Business Central to your WooCommerce store.</li>
-      <li><i>None</i> : Does not synchronize item records from Business Central to your WooCommerce store.</li>
+      <li><i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item records from Business Central to your WooCommerce store.</li>
+      <li><i>None</i> : The WooCommerce Connector does not synchronize item records from Business Central to your WooCommerce store.</li>
      </ul></li>
-    <li>In <b>Pull Webstore Items</b>, specify specify one of the following options:
+    <li>In <b>Pull Webstore Items</b>, specify one of the following options:
      <ul>
-      <li><i>All</i> : Synchronizes all item records from your WooCommerce store to Business Central.</li>
-      <li><i>Published Only</i> : Synchronizes item records from your WooCommerce store to Business Central where the item has a <b>Status</b> of <i>Publish</i> in WooCommerce.</li>
-      <li><i>Mapped Only</i> : Synchronizes item records from your WooCommerce store to Business Central where the item has the <b>Webstore Item</b> checkbox selected in Business Central.</li>
-      <li><i>None</i> : Does not synchronize item records from your WooCommerce store to Business Central.</li>
+      <li><i>All</i> : The WooCommerce Connector synchronizes all item records from your WooCommerce store to Business Central.</li>
+      <li><i>Published Only</i> : The WooCommerce Connector synchronizes item records from your WooCommerce store to Business Central where the item has a <b>Status</b> of <i>Publish</i> in WooCommerce.</li>
+      <li><i>Mapped Only</i> : The WooCommerce Connector synchronizes item records from your WooCommerce store to Business Central where the item has the <b>Webstore Item</b> checkbox selected in Business Central.</li>
+      <li><i>None</i> : The WooCommerce Connector does not synchronize item records from your WooCommerce store to Business Central.</li>
      </ul></li>
     <li>To open the <b>Webstore Item Mapping</b> page, where you can specify the items that you want to synchronize between your WooCommerce store and Business Central, choose <b>Record Mapping</b>.</li>
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
    For information about item configuration, go to <a href="items.md" target="_blank">Items</a>.
+
+1. On the fourth page of the wizard, specify the synchronization options for customers between Business Central and your WooCommerce store.
+
+   To complete this setup, perform the following steps:
+   <ol type="a">
+    <li>In <b>Default Customer Template</b>, specify the template that the WooCommerce Connector is to use to assign default values when creating customers in Business Central that are synchronized from your WooCommerce store.<br>
+     The customer that the WooCommerce Connector creates in Business Central receives posting details based on this template, such as the general business posting group, the VAT business posting group, and customer posting group.</li>
+    <li>In <b>Default Guest Customer</b>, specify the customer number that the WooCommerce Connector is to use for orders that are submitted by unregistered guest accounts from your WooCommerce store.</li>
+    <li>In <b>Push Webstore Customers</b>, specify one of the following options:
+     <ul>
+      <li><i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped customer records from Business Central to your WooCommerce store.</li>
+      <li><i>None</i> : The WooCommerce Connector does not synchronize customer records from Business Central to your WooCommerce store.</li>
+     </ul></li>
+    <li>In <b>Pull Webstore Customers</b>, specify one of the following options:
+     <ul>
+      <li><i>All</i> : The WooCommerce Connector synchronizes all customer records from your WooCommerce store to Business Central.</li>
+      <li><i>Mapped Only</i> : The WooCommerce Connector synchronizes customer records from your WooCommerce store to Business Central where the customer has the <b>Webstore Customer</b> checkbox selected in Business Central.</li>
+      <li><i>None</i> : The WooCommerce Connector does not synchronize customer records from your WooCommerce store to Business Central.</li>
+     </ul></li>
+    <li>To open the <b>Webstore Customer Mapping</b> page, where you can specify the customers that you want to synchronize between your WooCommerce store and Business Central, choose <b>Record Mapping</b>.</li>
+    <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
+   </ol>
+
+   For information about customer configuration, go to <a href="customers.md" target="_blank">Customers</a>.
 
 1. More content coming soon.
 

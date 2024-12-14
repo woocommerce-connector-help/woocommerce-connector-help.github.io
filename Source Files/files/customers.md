@@ -10,7 +10,7 @@ date: 11/10/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
 # Customers
 
@@ -25,13 +25,16 @@ The following list describes some of the features that the WooCommerce Connector
 
 ## Customer configuration
 
-The WooCommerce Connector provides the capability for you to configure how customer data is synchronized between your WooCommerce store and Business Central.
-
 To learn more about customer configuration in the WooCommerce Connector, in the following table, select the links.
 
 | To | See |
 |---|---|
-| Content coming soon. |  |
+| Learn about configuring the default customer template. | [Default customer template](default-customer-template.md) |
+| Learn about configuring the default guest customer. | [Default guest customer](default-guest-customer.md) |
+| Learn how to configure the push of customer data from Business Central to your WooCommerce store. | [Push webstore customers](push-webstore-customers.md) |
+| Learn how to configure the pull of customer data from your WooCommerce store to Business Central. | [Pull webstore customers](pull-webstore-customers.md) |
+| Learn about customer mapping. | [Customer mapping](customer-mapping.md) |
+| Learn how to configure the default customer template per country or region. | [Default customer template per country or region](default-customer-template-per-country-region.md) |
 
 ## Feedback
 

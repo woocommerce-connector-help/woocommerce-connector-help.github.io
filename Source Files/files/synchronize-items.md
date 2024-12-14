@@ -34,6 +34,10 @@ You can synchronize all items or choose to synchronize only selected items.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
+1. On the action bar, choose <b>Data</b> > <b>Webstore Item Mapping</b>.
+
+   The <b>Webstore Item Mapping</b> page opens.
+
 1. On the action bar, choose <b>Synchronization</b> > <b>Synchronize Selected Items</b>.
 
 ## See also

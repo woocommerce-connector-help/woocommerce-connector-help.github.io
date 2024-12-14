@@ -24,7 +24,11 @@ When you use this feature, the WooCommerce Connector automatically maps items wi
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
-   The <b>WooCommerce Connector Setup</b> page opens.
+   The <b>Woocommerce Connector Setup</b> page opens.
+
+1. On the action bar, choose <b>Data</b> > <b>Webstore Item Mapping</b>.
+
+   The <b>Webstore Item Mapping</b> page opens.
 
 1. On the action bar, choose <b>Webstore</b> > <b>Suggest Item Mapping</b>.
 

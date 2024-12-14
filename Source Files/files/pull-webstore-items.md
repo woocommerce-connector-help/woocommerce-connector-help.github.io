@@ -16,7 +16,7 @@ date: 11/24/2024
 
 You can configure how the WooCommerce Connector is to pull item data from your WooCommerce store into Business Central.
 
-## To set up the pull of item category data from your WooCommerce store to Business Central
+## To set up the pull of item data from your WooCommerce store to Business Central
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -30,7 +30,8 @@ You can configure how the WooCommerce Connector is to pull item data from your W
 
 ## See also
 
-[Item pull synchronization start date](item-pull-synchronization-start-date.md)
+[Items](items.md)  
+[Item pull synchronization start date](item-pull-synchronization-start-date.md)  
 
 ## Feedback
 
