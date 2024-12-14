@@ -28,7 +28,8 @@ The customer that the WooCommerce Connector creates in Business Central receives
 
 ## See also
 
-[Customers](customers.md)
+[Customers](customers.md)  
+[Default customer template per country or region](default-customer-template-per-country-region.md)  
 
 ## Feedback
 
