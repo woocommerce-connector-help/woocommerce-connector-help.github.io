@@ -21,7 +21,7 @@ When you perform a webstore item mapping synchronization, the WooCommerce Connec
 - Synchronizes your Woocommerce store product record with a Business Central regular item. Each product variation is synchronized with a separate regular item.
 - For each regular item, populates the <b>Webstore ID</b>, but leaves the <b>Webstore Variant ID</b> blank. The next time item variants are synchronized the WooCommerce Connector automatically populates the <b>Webstore ID</b> and <b>Webstore Variant ID</b> with values from your WooCommerce store.
 
-## To synchronize webstore item mapping
+## To manually synchronize webstore item mapping
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -37,6 +37,7 @@ When you perform a webstore item mapping synchronization, the WooCommerce Connec
 
 [Product variations as items](product-variations-as-items.md)  
 [Synchronize an item and variants](synchronize-item-variants.md)  
+[Automatic synchronization](automatic-synchronization.md)  
 
 ## Feedback
 

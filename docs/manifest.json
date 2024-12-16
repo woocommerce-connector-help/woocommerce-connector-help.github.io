@@ -105,6 +105,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/complete-webstore-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/complete-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/coupon-numbers.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/coupon-numbers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/coupons.md",
       "output": {
         ".html": {
@@ -165,6 +185,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/default-document-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-document-date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/default-guest-customer.md",
       "output": {
         ".html": {
@@ -189,6 +219,16 @@
       "output": {
         ".html": {
           "relative_path": "files/default-location-code.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/default-posting-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/default-posting-date.html"
         }
       },
       "version": ""
@@ -329,6 +369,16 @@
       "output": {
         ".html": {
           "relative_path": "files/language-support.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/last-sales-order-date-modified.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/last-sales-order-date-modified.html"
         }
       },
       "version": ""
@@ -545,10 +595,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/order-number-type.md",
+      "source_relative_path": "files/order-numbers-type.md",
       "output": {
         ".html": {
-          "relative_path": "files/order-number-type.html"
+          "relative_path": "files/order-numbers-type.html"
         }
       },
       "version": ""
@@ -559,6 +609,16 @@
       "output": {
         ".html": {
           "relative_path": "files/order-processing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/order-synchronization-start-date.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/order-synchronization-start-date.html"
         }
       },
       "version": ""
@@ -625,6 +685,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/pull-webstore-orders.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/pull-webstore-orders.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/push-webstore-customers.md",
       "output": {
         ".html": {
@@ -665,6 +735,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/sales-tax-account-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/sales-tax-account-number.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/sandbox-environment.md",
       "output": {
         ".html": {
@@ -695,6 +775,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/shipping-account-number.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/shipping-account-number.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/shipping-account-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/shipping-account-type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/suggest-customer-mapping.md",
       "output": {
         ".html": {
@@ -719,6 +819,16 @@
       "output": {
         ".html": {
           "relative_path": "files/suggest-item-mapping.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/synchronization-logs.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/synchronization-logs.html"
         }
       },
       "version": ""
@@ -775,10 +885,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/synchronize-new-modified-items-from-your-woocommerce-store.md",
+      "source_relative_path": "files/synchronize-orders.md",
       "output": {
         ".html": {
-          "relative_path": "files/synchronize-new-modified-items-from-your-woocommerce-store.html"
+          "relative_path": "files/synchronize-orders.html"
         }
       },
       "version": ""
@@ -789,26 +899,6 @@
       "output": {
         ".html": {
           "relative_path": "files/synchronize-webstore-item-mapping.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/total-shipping-amount-line.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/total-shipping-amount-line.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "files/total-tax-amount-line.md",
-      "output": {
-        ".html": {
-          "relative_path": "files/total-tax-amount-line.html"
         }
       },
       "version": ""
@@ -899,6 +989,16 @@
       "output": {
         ".html": {
           "relative_path": "files/webstore-url.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/webstore-weight.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/webstore-weight.html"
         }
       },
       "version": ""

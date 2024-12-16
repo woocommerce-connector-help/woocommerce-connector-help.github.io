@@ -16,11 +16,11 @@ date: 11/10/2024
 
 The WooCommerce Connector app provides the capability for you to synchronize items between WooCommerce and Business Central. Synchronizing ensures that your items are up-to-date and consistent between both platforms. 
 
-When you perform a synchronization, the WooCommerce Connector synchronizes items based on the values that are specified in <b>Push Webstore Items</b> and <b>Pull Webstore Items</b> on the <b>WooCommerce Connector Setup</b> page and the item mapping setup.
+When you perform a synchronization, the WooCommerce Connector synchronizes items based on the item setup on the <b>WooCommerce Connector Setup</b> page.
 
 You can synchronize all items or choose to synchronize only selected items.
 
-## To synchronize all items
+## To manually synchronize all items
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -28,7 +28,7 @@ You can synchronize all items or choose to synchronize only selected items.
 
 1. On the action bar, choose <b>Synchronization</b> > <b>Synchronize</b>.
 
-## To synchronize selected items
+## To manually synchronize selected items
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -44,6 +44,7 @@ You can synchronize all items or choose to synchronize only selected items.
 
 [Item mapping](item-mapping.md)  
 [Item pull synchronization start date](item-pull-synchronization-start-date.md)  
+[Automatic synchronization](automatic-synchronization.md)  
 
 ## Feedback
 

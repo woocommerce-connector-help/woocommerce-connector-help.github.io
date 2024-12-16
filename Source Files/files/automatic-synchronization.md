@@ -14,9 +14,9 @@ date: 12/01/2024
 
 # Automatic synchronization
 
-As required you can enable or disable automatic synchronization. Also, you can set the number of minutes between automatic synchronizations.
+The WooCommerce Connector can be set up to perform synchronizations automatically. As required, you can enable or disable automatic synchronization.
 
-Additionally, you can configure the length of time that the Woocommerce Connector is to retain activity log records.
+For flexibility, you can set the number of minutes between automatic synchronizations.
 
 ## To enable automatic synchronization
 
@@ -41,14 +41,6 @@ Additionally, you can configure the length of time that the Woocommerce Connecto
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. In <b>No. of Minutes between Runs</b>, specify the number of minutes that the WooCommerce Connector is to wait before performing synchronizations, for example, for 15 minutes, specify <i>15</i>.
-
-## To set the activity log retention period
-
-1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
-
-   The <b>WooCommerce Connector Setup</b> page opens.
-
-1. In <b>Activity Log Retention</b>, specify how long you want the WooCommerce Connector to retain activity log records, for example, for 30 Days, specify <i>30 Days</i>.
 
 ## Feedback
 
