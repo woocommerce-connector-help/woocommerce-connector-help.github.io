@@ -39,7 +39,7 @@ After you have installed the WooCommerce Connector, you must complete some setup
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
-   For information about how to generate a consumer key and secret or about passing API keys as query string parameters, go to <a href="api-consumer-key-consumer-secret.md" target="_blank">API consumer key and consumer secret</a>.
+   For more information about how to generate a consumer key and secret or about passing API keys as query string parameters, go to <a href="api-consumer-key-consumer-secret.md" target="_blank">API consumer key and consumer secret</a>.
 
 1. On the second page of the wizard, specify the synchronization options for item categories between Business Central and your WooCommerce store.
 
@@ -60,7 +60,7 @@ After you have installed the WooCommerce Connector, you must complete some setup
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
-   For information about item category configuration, go to <a href="item-categories.md" target="_blank">Item categories</a>.
+   For more information about item category configuration, go to <a href="item-categories.md" target="_blank">Item categories</a>.
 
 1. On the third page of the wizard, specify the synchronization options for items between Business Central and your WooCommerce store.
 
@@ -96,7 +96,7 @@ After you have installed the WooCommerce Connector, you must complete some setup
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
-   For information about item configuration, go to <a href="items.md" target="_blank">Items</a>.
+   For more information about item configuration, go to <a href="items.md" target="_blank">Items</a>.
 
 1. On the fourth page of the wizard, specify the synchronization options for customers between Business Central and your WooCommerce store.
 
@@ -120,9 +120,38 @@ After you have installed the WooCommerce Connector, you must complete some setup
     <li>To proceed to the next wizard page, choose <b>Next</b>.</li>
    </ol>
 
-   For information about customer configuration, go to <a href="customers.md" target="_blank">Customers</a>.
+   For more information about customer configuration, go to <a href="customers.md" target="_blank">Customers</a>.
 
-1. More content coming soon.
+1. On the fifth page of the wizard, specify the synchronization options for orders between Business Central and your WooCommerce store.
+
+   To complete this setup, perform the following steps:
+   <ol type="a">
+    <li>In <b>Order Sync. Start Date</b>, specify the date on which you want the WooCommerce Connector to start synchronizing orders.<br>
+     <p>If the <b>Order Sync. Start Date</b> is left blank, the WooCommerce Connector synchronizes all orders.</p></li>
+    <li>In <b>Pull Webstore Orders</b>, specify one of the following options:
+     <ul>
+      <li><i>All</i> : The WooCommerce Connector synchronizes all order records from your WooCommerce store to Business Central.</li>
+      <li><i>None</i> : The WooCommerce Connector does not synchronize order records from your WooCommerce store to Business Central.</li>
+     </ul></li>
+    <li>(Optional) In <b>Sales Tax Account No.</b>, specify the number that represents the General Ledger (G/L) account to which the WooCommerce Connector is to post sales tax amounts from WooCommerce store orders.<br>
+     <p>When a value is specified for <b>Sales Tax Account No.</b>, the WooCommerce Connector adds separate order lines during synchronization and the lines are posted on designated accounts.</p></li>
+    <li>(Optional) In <b>Shipping Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post shipping amounts from WooCommerce store orders.<br>
+     <p>When a value is specified for <b>Shipping Account No.</b>, the WooCommerce Connector adds separate order lines during synchronization and the lines are posted on designated accounts.</p></li>
+   </ol>
+
+   For more information about order configuration, go to <a href="orders.md" target="_blank">Orders</a>.
+
+1. On the last page of the wizard, specify the automatic synchronization settings.
+
+   To complete this setup, perform the following steps:
+   <ol type="a">
+    <li>In <b>No. of Minutes between Runs</b>, specify the frequency in minutes between runs that you want the WooCommerce Connector to synchronize data between Business Central and your WooCommerce store.</li>
+    <li>To have the WooCommerce Connector perform periodic background jobs that synchronize the data between Business Central and your WooCommerce store, turn on <b>Enable</b>.</li>
+   </ol>
+
+   For more information about automatic synchronization, go to <a href="automatic-synchronization.md" target="_blank">Automatic Synchronization</a>.
+
+1. To save all your setup settings and close the wizard, choose <b>Finish</b>.
 
 ## See also
 

@@ -20,7 +20,7 @@ When you perform a synchronization, the WooCommerce Connector synchronizes custo
 
 You can synchronize all customers or choose to synchronize only selected customers.
 
-## To synchronize all customers
+## To manually synchronize all customers
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -28,7 +28,7 @@ You can synchronize all customers or choose to synchronize only selected custome
 
 1. On the action bar, choose <b>Synchronization</b> > <b>Synchronize</b>.
 
-## To synchronize selected customers
+## To manually synchronize selected customers
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -42,7 +42,8 @@ You can synchronize all customers or choose to synchronize only selected custome
 
 ## See also
 
-[Customer mapping](customer-mapping.md)
+[Customer mapping](customer-mapping.md)  
+[Automatic synchronization](automatic-synchronization.md)  
 
 ## Feedback
 

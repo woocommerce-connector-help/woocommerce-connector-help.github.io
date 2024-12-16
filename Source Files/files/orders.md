@@ -1,16 +1,16 @@
 ---
 title: Orders
-description: 
+description: Learn about orders in the WooCommerce Connector.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 12/14/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
 # Orders
 
@@ -33,7 +33,22 @@ To learn more about order configuration in the WooCommerce Connector, in the fol
 
 | To | See |
 |---|---|
-| Content coming soon. |  |
+| Learn how to specify the order synchronization start date. | [Order synchronization start date](order-synchronization-start-date.md) |
+| Learn how to configure the pull of order data from your WooCommerce store to Business Central. | [Pull webstore orders](pull-webstore-orders.md) |
+| Learn how to configure the sales tax account number. | [Sales tax account number](sales-tax-account-number.md) |
+| Learn how to configure the shipping account number. | [Shipping account number](shipping-account-number.md) |
+| Learn about the shipping account type. | [Shipping account type](shipping-account-type.md) |
+| Learn about the order numbers type. | [Order numbers type](order-numbers-type.md) |
+| Learn about the default document date. | [Default document date](default-document-date.md) |
+| Learn about the default posting date. | [Default posting date](default-posting-date.md) |
+| Learn about how to complete webstore orders. | [Complete webstore orders](complete-webstore-orders.md) |
+| Leave about the webstore status filter. | [Webstore status filter](webstore-status-filter.md) |
+| Learn about payment methods, including how to map Business Central payment methods to WooCommerce payment methods. | [Webstore payment method](webstore-payment-method.md) |
+
+## See also
+
+[Last sales order date modified](last-sales-order-date-modified.md)  
+[Synchronize orders](synchronize-orders.md)  
 
 ## Feedback
 

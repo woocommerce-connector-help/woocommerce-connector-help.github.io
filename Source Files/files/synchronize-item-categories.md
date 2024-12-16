@@ -16,9 +16,9 @@ date: 11/17/2024
 
 The WooCommerce Connector app provides the capability for you to synchronize item categories between WooCommerce and Business Central. Synchronizing ensures that your item categories are up-to-date and consistent between both platforms. 
 
-When you perform a synchronization, the WooCommerce Connector synchronizes item categories based on the values that are specified in <b>Push Webstore Item Categories</b> and <b>Pull Webstore Item Categories</b> on the <b>WooCommerce Connector Setup</b> page and the item category mapping setup.
+When you perform a synchronization, the WooCommerce Connector synchronizes item categories based on the item categories setup on the <b>WooCommerce Connector Setup</b> page.
 
-## To synchronize item categories
+## To manually synchronize item categories
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -28,7 +28,8 @@ When you perform a synchronization, the WooCommerce Connector synchronizes item 
 
 ## See also
 
-[Item category mapping](item-category-mapping.md)
+[Item category mapping](item-category-mapping.md)  
+[Automatic synchronization](automatic-synchronization.md)  
 
 ## Feedback
 

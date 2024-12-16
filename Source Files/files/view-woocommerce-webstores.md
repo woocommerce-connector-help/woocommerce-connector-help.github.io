@@ -16,6 +16,8 @@ date: 12/10/2024
 
 On the <b>Webstores</b> page, you can view the list of WooCommerce webstores that are configured in the WooCommerce Connector.
 
+The <b>Webstores</b> page is accessible from the <b>Business Manager</b> and <b>Sales Order Processor</b> role centers.
+
 ## To view the list of WooCommerce webstores that are configured in the WooCommerce Connector
 
 On the role center menu, choose <b>WooCommerce</b> > <b>Webstores</b>.

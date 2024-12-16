@@ -16,7 +16,7 @@ date: 11/10/2024
 
 The WooCommerce Connector app provides the capability for you to synchronize an item and variants between WooCommerce and Business Central. Synchronizing ensures that your item variants are up-to-date and consistent between both platforms. 
 
-## To synchronize an item and
+## To manually synchronize an item and variants
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -34,7 +34,8 @@ The WooCommerce Connector app provides the capability for you to synchronize an 
 
 ## See also
 
-[Item variant mapping](item-variant-mapping.md)
+[Item variant mapping](item-variant-mapping.md)  
+[Automatic synchronization](automatic-synchronization.md)  
 
 ## Feedback
 
