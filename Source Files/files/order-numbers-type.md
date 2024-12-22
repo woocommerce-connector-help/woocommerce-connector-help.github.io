@@ -14,7 +14,7 @@ date: 12/14/2024
 
 # Order numbers type
 
-The WooCommerce Connector provides the capability for you to specify the number series to use in Business Central for orders that originate from your WooCommerce store.
+The WooCommerce Connector provides the capability for you to specify the number series to use in Business Central for orders that originate from your webstore.
 
 ## To configure the order numbers type
 

@@ -14,7 +14,7 @@ date: 12/7/2024
 
 # Item variant mapping
 
-The WooCommerce Connector provides the capability for you to map the item variants that you want to synchronize between your WooCommerce store and Business Central. Item variant mapping ensures that item variant data appears in both platforms and that unnecessary duplicates are not created.
+The WooCommerce Connector provides the capability for you to map the item variants that you want to synchronize between your webstore and Business Central. Item variant mapping ensures that item variant data appears in both platforms and that unnecessary duplicates are not created.
 
 ## To map item variants
 
@@ -30,7 +30,7 @@ The WooCommerce Connector provides the capability for you to map the item varian
 
    The <b>Webstore Item Variant Mapping</b> page opens.
 
-1. To keep your inventory and sales channels in sync, for each item variant that exists in Business Central and your WooCommerce store, in <b>Webstore ID</b>, specify the respective Webstore ID.
+1. To keep your inventory and sales channels in sync, for each item variant that exists in Business Central and your webstore, in <b>Webstore ID</b>, specify the respective Webstore ID.
 
 1. To specify that the WooCommerce Connector is to update the online stock management with the current inventory value, select the <b>Manage Stock on Webstore</b> checkbox for the respective item variant.
 
@@ -38,7 +38,7 @@ The WooCommerce Connector provides the capability for you to map the item varian
 
 1. Specify values for other fields as required.
 
-   You can now perform a synchronization between Business Central and your WooCommerce store. For more information about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
+   You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
 
 ## See also
 

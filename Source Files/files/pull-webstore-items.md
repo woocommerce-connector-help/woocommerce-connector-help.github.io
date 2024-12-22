@@ -1,6 +1,6 @@
 ---
 title: Pull webstore items
-description: Learn how to configure the pull of item data from your WooCommerce store to Business Central.
+description: Learn how to configure the pull of item data from your webstore to Business Central.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,19 +14,19 @@ date: 11/24/2024
 
 # Pull webstore items
 
-You can configure how the WooCommerce Connector is to pull item data from your WooCommerce store into Business Central.
+You can configure how the WooCommerce Connector is to pull item data from your webstore into Business Central.
 
-## To set up the pull of item data from your WooCommerce store to Business Central
+## To set up the pull of item data from your webstore to Business Central
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Items</b>, specify one of the following options:
-     - <i>All</i> : The WooCommerce Connector synchronizes all item records from your WooCommerce store to Business Central.
-     - <i>Published Only</i> : The WooCommerce Connector synchronizes item records from your WooCommerce store to Business Central where the item has a <b>Status</b> of <i>Publish</i> in WooCommerce.
-     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes item records from your WooCommerce store to Business Central where the item has the <b>Webstore Item</b> checkbox selected in Business Central.
-     - <i>None</i> : The WooCommerce Connector does not synchronize item records from your WooCommerce store to Business Central.
+     - <i>All</i> : The WooCommerce Connector synchronizes all item records from your webstore to Business Central.
+     - <i>Published Only</i> : The WooCommerce Connector synchronizes item records from your webstore to Business Central where the item has a <b>Status</b> of <i>Publish</i> in WooCommerce.
+     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes item records from your webstore to Business Central where the item has the <b>Webstore Item</b> checkbox selected in Business Central.
+     - <i>None</i> : The WooCommerce Connector does not synchronize item records from your webstore to Business Central.
 
 ## See also
 

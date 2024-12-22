@@ -10,14 +10,14 @@ date: 11/30/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
 
 # Synchronize item prices
 
-Synchronization of item prices between Business Central and your WooCommerce store occurs when you synchronize items.
+Synchronization of item prices between Business Central and your webstore occurs when you synchronize items.
 
 > [!NOTE]
-> <b>Note</b>:<br>During synchronization, prices are only updated from Business Central to your WooCommerce store.
+> <b>Note</b>:<br>During synchronization, prices are only updated from Business Central to your webstore.
 
 For information about how to synchronize items, go to [Synchronize items](synchronize-items.md).
 

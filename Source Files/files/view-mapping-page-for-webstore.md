@@ -44,7 +44,7 @@ You can open the mapping pages for a webstore from the <b>Webstores</b> or <b>Wo
 
 ## See also
 
-[Multiple WooCommerce stores](multiple-woocommerce-stores.md)
+[Multiple webstores](multiple-webstores.md)
 
 ## Feedback
 

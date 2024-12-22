@@ -14,11 +14,11 @@ date: 12/14/2024
 
 # Suggest customer mapping
 
-To assist with customer mapping, the WooCommerce Connector includes the capability for you to map customers between your WooCommerce store and Business Central based on their names. 
+To assist with customer mapping, the WooCommerce Connector includes the capability for you to map customers between your webstore and Business Central based on their names. 
 
 This feature eliminates the need for you to manually map all customers, saving you time, and reducing the risk of errors.
 
-When you use this feature, the WooCommerce Connector automatically maps customers with identical names in both your WooCommerce store and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors and ensure accuracy, the WooCommerce Connector does not map records if multiple customers share the same name criteria.
+When you use this feature, the WooCommerce Connector automatically maps customers with identical names in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors and ensure accuracy, the WooCommerce Connector does not map records if multiple customers share the same name criteria.
 
 ## To have the WooCommerce Connector suggest item mapping
 

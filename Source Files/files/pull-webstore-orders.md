@@ -1,6 +1,6 @@
 ---
 title: Pull webstore orders
-description: Learn how to configure the pull of order data from your WooCommerce store to Business Central.
+description: Learn how to configure the pull of order data from your webstore to Business Central.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,17 +14,17 @@ date: 12/14/2024
 
 # Pull webstore orders
 
-You can configure how the WooCommerce Connector is to pull order data from your WooCommerce store into Business Central.
+You can configure how the WooCommerce Connector is to pull order data from your webstore into Business Central.
 
-## To set up the pull of order data from your WooCommerce store to Business Central
+## To set up the pull of order data from your webstore to Business Central
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Orders</b>, specify one of the following options:
-     - <i>All</i> : The WooCommerce Connector synchronizes all order records from your WooCommerce store to Business Central.
-     - <i>None</i> : The WooCommerce Connector does not synchronize order records from your WooCommerce store to Business Central.
+     - <i>All</i> : The WooCommerce Connector synchronizes all order records from your webstore to Business Central.
+     - <i>None</i> : The WooCommerce Connector does not synchronize order records from your webstore to Business Central.
 
 ## See also
 

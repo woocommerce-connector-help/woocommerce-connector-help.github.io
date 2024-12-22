@@ -14,9 +14,9 @@ date: 12/14/2024
 
 # Customer mapping
 
-The WooCommerce Connector provides the capability for you to map the specific customers that you want to synchronize between your WooCommerce store and Business Central. Customer mapping ensures that customer data appears in both platforms and that unnecessary duplicates are not created.
+The WooCommerce Connector provides the capability for you to map the specific customers that you want to synchronize between your webstore and Business Central. Customer mapping ensures that customer data appears in both platforms and that unnecessary duplicates are not created.
 
-To assist with customer mapping, the WooCommerce Connector includes a suggest customer mapping feature that automatically maps customers between your WooCommerce store and Business Central based on their names. For more information, go to [Suggest customer mapping](suggest-customer-mapping.md).
+To assist with customer mapping, the WooCommerce Connector includes a suggest customer mapping feature that automatically maps customers between your webstore and Business Central based on their names. For more information, go to [Suggest customer mapping](suggest-customer-mapping.md).
 
 ## To map customers
 
@@ -28,15 +28,15 @@ To assist with customer mapping, the WooCommerce Connector includes a suggest cu
 
    The <b>Webstore Customer Mapping</b> page opens.
 
-1. For each Business Central customer that you want to appear in your WooCommerce store, perform the following steps:
+1. For each Business Central customer that you want to appear in your webstore, perform the following steps:
    <ol type="a">
     <li>In <b>Username</b>, specify the customer's username.</li>
     <li>In <b>Password</b>, specify the customer's password.</li>
     <li>Select the <b>Webstore Customer</b> checkbox.<br>
-      <p>During synchronization, the WooCommerce Connector creates the customers in your WooCommerce store.</p>
+      <p>During synchronization, the WooCommerce Connector creates the customers in your webstore.</p>
       <p>If a customer in Business Central was previously mapped to a WooCommerce customer, the WooCommerce Connector synchronizes that record instead.</p>
-      <p>When a customer is created in your WooCommerce store, the customer is sent an email with an invite link.</p></li>
-    <li>To map a Business Central customer to an existing customer in your WooCommerce store, in <b>Webstore ID</b>, specify the respective Webstore ID.</li>
+      <p>When a customer is created in your webstore, the customer is sent an email with an invite link.</p></li>
+    <li>To map a Business Central customer to an existing customer in your webstore, in <b>Webstore ID</b>, specify the respective Webstore ID.</li>
    </ol>
 
 ## See also

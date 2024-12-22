@@ -35,6 +35,10 @@ The WooCommerce Connector provides the capability for you to map payment methods
      <p>The <b>Webstore Title</b> field is automatically populated with the payment method title that is defined in WooCommerce.</p></li>
    </ol>
 
+## See also
+
+[Orders](orders.md)  
+
 ## Feedback
 
 To send feedback about this page, select the following link:

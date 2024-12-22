@@ -14,7 +14,7 @@ date: 12/14/2024
 
 # Orders
 
-The WooCommerce Connector provides the capability for you to synchronize order data between your WooCommerce store and Business Central.
+The WooCommerce Connector provides the capability for you to synchronize order data between your webstore and Business Central.
 
 The following list describes some of the features that the WooCommerce Connector provides related to orders:
 
@@ -22,19 +22,20 @@ The following list describes some of the features that the WooCommerce Connector
 - Use of separate number series for online sales orders.
 - Synchronization of tax and shipping amounts to separate account numbers.
 - Auto-creation of any customers and items from new synced sales orders.
-- Use of optional single customer for all guest WooCommerce store customers.
+- Use of optional single customer for all guest webstore customers.
 - Synchronize and manage coupons for sales orders.
 
 ## Order configuration
 
-The WooCommerce Connector provides the capability for you to configure how orders are synchronized between your WooCommerce store and Business Central.
+The WooCommerce Connector provides the capability for you to configure how orders are synchronized between your webstore and Business Central.
 
 To learn more about order configuration in the WooCommerce Connector, in the following table, select the links.
 
 | To | See |
 |---|---|
+| Learn about order processing. | [Order processing](order-processing.md) |
 | Learn how to specify the order synchronization start date. | [Order synchronization start date](order-synchronization-start-date.md) |
-| Learn how to configure the pull of order data from your WooCommerce store to Business Central. | [Pull webstore orders](pull-webstore-orders.md) |
+| Learn how to configure the pull of order data from your webstore to Business Central. | [Pull webstore orders](pull-webstore-orders.md) |
 | Learn how to configure the sales tax account number. | [Sales tax account number](sales-tax-account-number.md) |
 | Learn how to configure the shipping account number. | [Shipping account number](shipping-account-number.md) |
 | Learn about the shipping account type. | [Shipping account type](shipping-account-type.md) |
@@ -44,6 +45,9 @@ To learn more about order configuration in the WooCommerce Connector, in the fol
 | Learn about how to complete webstore orders. | [Complete webstore orders](complete-webstore-orders.md) |
 | Leave about the webstore status filter. | [Webstore status filter](webstore-status-filter.md) |
 | Learn about payment methods, including how to map Business Central payment methods to WooCommerce payment methods. | [Webstore payment method](webstore-payment-method.md) |
+| Learn about the total shipping amount line on orders. | [Total shipping amount line](total-shipping-amount-line.md) |
+| Learn about the total tax amount line on orders. | [Total tax amount line](total-tax-amount-line.md) |
+| Learn about order fee lines. | [Order fee lines](order-fee-lines.md) |
 
 ## See also
 

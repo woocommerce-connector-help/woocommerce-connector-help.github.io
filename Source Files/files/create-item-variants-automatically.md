@@ -52,7 +52,7 @@ To assist with the creation of a large number of variations, the WooCommerce Con
 
    The WooCommerce Connector creates the variations.
 
-   You can now perform a synchronization between Business Central and your WooCommerce store. For more information about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
+   You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
 
 ## Feedback
 

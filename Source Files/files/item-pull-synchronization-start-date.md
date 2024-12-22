@@ -14,7 +14,7 @@ date: 11/24/2024
 
 # Item pull synchronization start date
 
-After the initial synchronization between Business Central and your WooCommerce store, the WooCommerce Connector automatically populates the pull synchronization start date for items with the current date and time. For subsequent synchronizations, the WooCommerce Connector references this date and ensures that only new and modified items are synchronized.
+After the initial synchronization between Business Central and your webstore, the WooCommerce Connector automatically populates the pull synchronization start date for items with the current date and time. For subsequent synchronizations, the WooCommerce Connector references this date and ensures that only new and modified items are synchronized.
 
 If required, you can update the pull synchronization start date for items. This feature is useful when you must synchronize all items, including older items and items that may have been missed during previous synchronizations. 
 
@@ -26,7 +26,7 @@ You can only update the pull synchronization start date for items when on the <b
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. On the <b>Synchronization</b> FastTab, under <b>Pull Synchronization Start Date</b>, in <b>Item</b>, specify the date that you want the WooCommerce Connector to use for the next item synchronization between Business Central and your WooCommerce store.
+1. On the <b>Synchronization</b> FastTab, under <b>Pull Synchronization Start Date</b>, in <b>Item</b>, specify the date that you want the WooCommerce Connector to use for the next item synchronization between Business Central and your webstore.
 
 ## See also
 

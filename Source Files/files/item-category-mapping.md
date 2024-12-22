@@ -14,9 +14,9 @@ date: 11/17/2024
 
 # Item category mapping
 
-The WooCommerce Connector provides the capability for you to map the item categories that you want to synchronize between your WooCommerce store and Business Central. Item category mapping ensures that your products appear in your WooCommerce store and are available for purchase, while keeping your inventory and sales channels synchronized for seamless operations and efficient management.
+The WooCommerce Connector provides the capability for you to map the item categories that you want to synchronize between your webstore and Business Central. Item category mapping ensures that your products appear in your webstore and are available for purchase, while keeping your inventory and sales channels synchronized for seamless operations and efficient management.
 
-To assist with item category mapping, the WooCommerce Connector includes a suggest item category mapping feature that automatically maps item categories between your WooCommerce store and Business Central based on their category names. For more information, go to [Suggest item category mapping](suggest-item-category-mapping.md).
+To assist with item category mapping, the WooCommerce Connector includes a suggest item category mapping feature that automatically maps item categories between your webstore and Business Central based on their category names. For more information, go to [Suggest item category mapping](suggest-item-category-mapping.md).
 
 ## To map item categories
 
@@ -28,11 +28,11 @@ To assist with item category mapping, the WooCommerce Connector includes a sugge
 
    The <b>Webstore Item Category Mapping</b> page opens.
 
-1. For each item category that you want to appear in your WooCommerce store and be available for purchase, select the <b>Use In Webstore</b> checkbox.
+1. For each item category that you want to appear in your webstore and be available for purchase, select the <b>Use In Webstore</b> checkbox.
 
-1. To keep your inventory and sales channels in sync, for each item category that exists in Business Central and your Woocommerce store, in <b>Webstore ID</b>, specify the respective Webstore ID.
+1. To keep your inventory and sales channels in sync, for each item category that exists in Business Central and your webstore, in <b>Webstore ID</b>, specify the respective Webstore ID.
 
-   You can now perform a synchronization between Business Central and your WooCommerce store. For more information about synchronizing item categories, go to [Synchronize item categories](synchronize-item-categories.md).
+   You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item categories, go to [Synchronize item categories](synchronize-item-categories.md).
 
 ## See also
 

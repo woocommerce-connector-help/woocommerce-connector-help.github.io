@@ -1,6 +1,6 @@
 ---
-title: Configure the pull of item category data from your WooCommerce store to Business Central
-description: Learn how to configure the pull of item category data from your WooCommerce store to Business Central.
+title: Configure the pull of item category data from your webstore to Business Central
+description: Learn how to configure the pull of item category data from your webstore to Business Central.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -12,11 +12,11 @@ date: 11/24/2024
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
 <!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
 
-# Configure the pull of item category data from your WooCommerce store to Business Central
+# Configure the pull of item category data from your webstore to Business Central
 
-You can configure how the WooCommerce Connector is to pull item category data from your WooCommerce store into Business Central.
+You can configure how the WooCommerce Connector is to pull item category data from your webstore into Business Central.
 
-## To set up the pull of item category data from your WooCommerce store to Business Central
+## To set up the pull of item category data from your webstore to Business Central
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -24,9 +24,9 @@ You can configure how the WooCommerce Connector is to pull item category data fr
 
 1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Item Categories</b>, specify one of the following options:
 
-     - <i>All</i> : The WooCommerce Connector synchronizes all item category records from your WooCommerce store to Business Central.
-     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item category records from your WooCommerce store to Business Central.
-     - <i>None</i> : The WooCommerce Connector does not synchronize item category records from your WooCommerce store to Business Central.
+     - <i>All</i> : The WooCommerce Connector synchronizes all item category records from your webstore to Business Central.
+     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item category records from your webstore to Business Central.
+     - <i>None</i> : The WooCommerce Connector does not synchronize item category records from your webstore to Business Central.
 
 ## Feedback
 

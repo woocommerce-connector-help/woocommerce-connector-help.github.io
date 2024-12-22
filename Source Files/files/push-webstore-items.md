@@ -1,6 +1,6 @@
 ---
 title: Push webstore items
-description: Learn how to configure the push of item data from Business Central to your WooCommerce store.
+description: Learn how to configure the push of item data from Business Central to your webstore.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,17 +14,17 @@ date: 11/10/2024
 
 # Push webstore items
 
-You can configure how the WooCommerce Connector is to push item data from Business Central to your WooCommerce store.
+You can configure how the WooCommerce Connector is to push item data from Business Central to your webstore.
 
-## To set up the push of item data from Business Central to your WooCommerce store
+## To set up the push of item data from Business Central to your webstore
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b>, in <b>Items</b>, specify one of the following options:
-     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item records from Business Central to your WooCommerce store.
-     - <i>None</i> : The WooCommerce Connector does not synchronize item records from Business Central to your WooCommerce store.
+     - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item records from Business Central to your webstore.
+     - <i>None</i> : The WooCommerce Connector does not synchronize item records from Business Central to your webstore.
 
 ## Feedback
 

@@ -10,11 +10,11 @@ date: 12/01/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
 
 # API consumer key and consumer secret
 
-For API communication between Business Central and your WooCommerce store, the WooCommerce Connector uses a consumer key and consumer secret. The WooCommerce Connector uses the consumer key and secret for authentication and access control purposes.
+For API communication between Business Central and your webstore, the WooCommerce Connector uses a consumer key and consumer secret. The WooCommerce Connector uses the consumer key and secret for authentication and access control purposes.
 
 ## Generate an API consumer key and secret
 

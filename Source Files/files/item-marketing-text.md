@@ -10,7 +10,7 @@ date: 12/07/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
 
 # Item marketing text
 
@@ -21,7 +21,7 @@ Copilot bases the suggested text on the following information:
 - Attributes defined for the item, for example, the description, item category, color, dimensions, and material.
 - Selectable style preferences like tone of voice, format, and length.
 
-After you have created item marketing text, you can configure the WooCommerce Connector to push the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Long Description</b> or <b>Product Short Description</b> in your WooCommerce store.
+After you have created item marketing text, you can configure the WooCommerce Connector to push the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Long Description</b> or <b>Product Short Description</b> in your webstore.
 
 ## To draft item marketing text with Copilot
 
@@ -41,11 +41,11 @@ After you have created item marketing text, you can configure the WooCommerce Co
 
    For more information about adding marketing text to items, see <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/item-marketing-text" target="_blank">Add marketing text to items</a>.
 
-## Configure whether to use an item's marketing text as the Product Long Description or Product Short Description in your WooCommerce store
+## Configure whether to use an item's marketing text as the Product Long Description or Product Short Description in your webstore
 
-You can configure whether to use an item's <b>Marketing Text</b> from Business Central as the <b>Product Long Description</b> or <b>Product Short Description</b> in your WooCommerce store.
+You can configure whether to use an item's <b>Marketing Text</b> from Business Central as the <b>Product Long Description</b> or <b>Product Short Description</b> in your webstore.
 
-### To configure an item's marketing text as the Product Long Description or Product Short Description in your WooCommerce store
+### To configure an item's marketing text as the Product Long Description or Product Short Description in your webstore
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
@@ -53,8 +53,8 @@ You can configure whether to use an item's <b>Marketing Text</b> from Business C
 
 1. In <b>Marketing Text</b>, specify one of the following options:
      - <i>None</i> : Do not use this feature.
-     - <i>Product Long Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Long Description</b> in your WooCommerce store.
-     - <i>Product Short Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Short Description</b> in your WooCommerce store.
+     - <i>Product Long Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Long Description</b> in your webstore.
+     - <i>Product Short Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Short Description</b> in your webstore.
 
 ## See also
 
