@@ -14,7 +14,7 @@ date: 11/24/2024
 
 # Synchronization logs
 
-To help you monitor, troubleshoot, and validate the data exchange between Business Central and your WooCommerce store, the WooCommerce Connector keeps detailed logs that track the process of synchronizing data. The WooCommerce Connector keeps separate logs per WooCommerce store.
+To help you monitor, troubleshoot, and validate the data exchange between Business Central and your webstore, the WooCommerce Connector keeps detailed logs that track the process of synchronizing data. The WooCommerce Connector keeps separate logs per webstore.
 
 The logs provide insights into synchronization records, including errors, and reports.
 

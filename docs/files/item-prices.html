@@ -106,21 +106,22 @@
                     <article class="content wrap" id="_content" data-uid="">
 <h1 id="item-prices">Item prices</h1>
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore ELEX -->
 
 <p>The WooCommerce Connector provides the capability for you to manage the following prices:</p>
 <ul>
-<li>Regular Price: The standard price that is set for a product or service.</li>
-<li>Sales Price: The price at which a product or service is offered during a specific sales period.</li>
+<li>Regular price: The standard price that is set for a product or service.</li>
+<li>Sales price: The price at which a product or service is offered during a specific sales period.</li>
+<li>Customer specific pricing: The WooCommerce Connector synchronizes item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin.</li>
 </ul>
 <div class="NOTE">
 <h5>Note</h5>
-<p><b>Note</b>:<br>During synchronization, prices are only updated from Business Central to your WooCommerce store.</p>
+<p><b>Note</b>:<br>During synchronization, prices are only updated from Business Central to your webstore.</p>
 </div>
 <h2 id="regular-price">Regular price</h2>
-<p>In Business Central, the regular price can be set at the item card level or at the <a href="item-prices.html#customer-price-group">customer price group</a> level. The WooCommerce Connector provides the capability for you to choose which of these levels are synchronized with your WooCommerce store.</p>
+<p>In Business Central, the regular price can be set at the item card level or at the <a href="item-prices.html#customer-price-group">customer price group</a> level. The WooCommerce Connector provides the capability for you to choose which of these levels are synchronized with your webstore.</p>
 <h3 id="customer-price-group">Customer price group</h3>
-<p>You can configure the WooCommerce Connector to update the item prices in your WooCommerce store with the prices from the customer price groups in Business Central.</p>
+<p>You can configure the WooCommerce Connector to update the item prices in your webstore with the prices from the customer price groups in Business Central.</p>
 <h3 id="to-configure-the-regular-price">To configure the regular price</h3>
 <ol>
 <li><p>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature." title="Tell me what you want to do">, enter <i>woocommerce connector setup</i>, and then choose the related link.</p>
@@ -128,21 +129,28 @@
 </li>
 <li><p>In <b>Regular Price</b>, specify one of the following options:</p>
 <ul>
-<li><p><i>Unit Price</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Item Card</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store.</p>
+<li><p><i>Unit Price</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Item Card</b> page in Business Central to the <b>Item Regular Price</b> in your webstore.</p>
 </li>
-<li><p><i>Customer Price Group</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Customer Price Group</b> page in Business Central to the <b>Item Regular Price</b> in your WooCommerce store. When you specify <i>Customer Price Group</i>, the WooCommerce Connector displays a <b>Customer Price Group</b> field where you must specify the customer price group to use during synchronization.</p>
+<li><p><i>Customer Price Group</i> : During synchronization, the WooCommerce Connector pushes the <b>Unit Price</b> on the <b>Customer Price Group</b> page in Business Central to the <b>Item Regular Price</b> in your webstore. When you specify <i>Customer Price Group</i>, the WooCommerce Connector displays a <b>Customer Price Group</b> field where you must specify the customer price group to use during synchronization.</p>
 </li>
 </ul>
 </li>
 </ol>
 <h2 id="sales-price">Sales price</h2>
-<p>The sales price that is used for your WooCommerce store is not linked to any customer group code in Business Central. This design is because WooCommerce only supports one price for all customers, and does not facilitate customer-specific prices by default. Therefore, the price that's defined for all customers is used as the default sales price.</p>
+<p>The sales price that is used for your webstore is not linked to any customer group code in Business Central. This design is because WooCommerce only supports one price for all customers, and does not facilitate customer-specific prices by default. Therefore, the price that's defined for all customers is used as the default sales price.</p>
 <p>The sales price is calculated as the best sales price from the sales price list for all customers that's relevant for the current date.</p>
 <h2 id="set-regular-and-sales-prices-during-item-configuration">Set regular and sales prices during item configuration</h2>
-<p>When you perform item mapping, the WooCommerce Connector displays a <b>Webstore Item - Details</b> FactBox. In the FactBox there are <b>Regular Price</b> and <b>Sale Price</b> fields. If there is a value present, the WooCommerce Connector pushes this value to your WooCommerce store during an item synchronization. Alternatively, if there is no value, you can select the <i>Create New</i> link, and then specify a price.</p>
+<p>When you perform item mapping, the WooCommerce Connector displays a <b>Webstore Item - Details</b> FactBox. In the FactBox there are <b>Regular Price</b> and <b>Sale Price</b> fields. If there is a value present, the WooCommerce Connector pushes this value to your webstore during an item synchronization. Alternatively, if there is no value, you can select the <i>Create New</i> link, and then specify a price.</p>
 <p>When you select the <i>Create New</i> link and <i>Customer Price Group</i> is specified for <b>Regular Price</b> on the <b>WooCommerce Connector Setup</b> page, the WooCommerce Connector opens the <b>Sales Prices</b> page. The WooCommerce Connector sets the value of <b>Sales Code Filter</b> to be the same as the value that is specified in <b>Customer Price Group</b> on the <b>WooCommerce Connector Setup</b> page.</p>
+<h2 id="customer-specific-pricing">Customer specific pricing</h2>
+<p>The WooCommerce Connector synchronizes item prices between Business Central and your webstore using the <b>ELEX WooCommerce Role Based Pricing</b> plugin. For more information, go to, <a href="customer-specific-pricing.html">Customer specific pricing</a>.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p><b>Note</b>:<br>The customer specific pricing feature is only available as a separately purchased per tenant extension. For more information, go to <a href="additional-paid-features.html">Additional paid features</a>.</p>
+</div>
 <h2 id="see-also">See also</h2>
-<p><a href="synchronize-item-prices.html">Synchronize item prices</a></p>
+<p><a href="synchronize-item-prices.html">Synchronize item prices</a><br>
+<a href="https://learn.microsoft.com/en-us/dynamics365/business-central/sales-how-to-set-up-customer-price-groups" target="_blank">Set Up Customer Price Groups</a></p>
 <h2 id="feedback">Feedback</h2>
 <p>To send feedback about this page, select the following link:</p>
 <p><a href="mailto:srdjan@synfynal.com?subject=Documentation%20Feedback%20Product%20Docs:%20item-prices">srdjan@synfynal.com</a></p>

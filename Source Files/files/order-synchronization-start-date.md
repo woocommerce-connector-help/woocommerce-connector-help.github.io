@@ -10,13 +10,13 @@ date: 11/10/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
 
 # Order synchronization start date
 
 The WooCommerce Connector provides the capability for you to specify the date on which you want the WooCommerce Connector to start synchronizing orders.
 
-For example, if you have entered orders from WooCommerce into Business Central through December 31st, you can specify January 1st as the date on which you want the WooCommerce Connector to start synchronizing orders between Business Central and your WooCommerce store. 
+For example, if you have entered orders from WooCommerce into Business Central through December 31st, you can specify January 1st as the date on which you want the WooCommerce Connector to start synchronizing orders between Business Central and your webstore. 
 
 If you leave the order synchronization start date blank, the WooCommerce Connector synchronizes all orders.
 

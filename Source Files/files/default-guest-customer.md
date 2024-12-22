@@ -14,7 +14,7 @@ date: 12/14/2024
 
 # Default guest customer
 
-The WooCommerce Connector provides the capability for you to configure the customer number that the WooCommerce Connector is to use for orders that are submitted by unregistered guest accounts from your WooCommerce store.
+The WooCommerce Connector provides the capability for you to configure the customer number that the WooCommerce Connector is to use for orders that are submitted by unregistered guest accounts from your webstore.
 
 ## To configure the default guest customer
 
@@ -22,7 +22,7 @@ The WooCommerce Connector provides the capability for you to configure the custo
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Default Guest Customer</b>,  specify the customer number that the WooCommerce Connector is to use for orders that are submitted by unregistered guest accounts from your WooCommerce store.
+1. In <b>Default Guest Customer</b>,  specify the customer number that the WooCommerce Connector is to use for orders that are submitted by unregistered guest accounts from your webstore.
 
 ## See also
 

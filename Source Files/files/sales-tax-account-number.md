@@ -10,13 +10,13 @@ date: 11/10/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
 
 # Sales tax account number
 
-The WooCommerce Connector provides the capability for you to specify the General Ledger (G/L) account to which the WooCommerce Connector is to post sales tax amounts from WooCommerce store orders.
+The WooCommerce Connector provides the capability for you to specify the General Ledger (G/L) account to which the WooCommerce Connector is to post sales tax amounts from webstore orders.
 
-When a sales tax G/L account is specified, the WooCommerce Connector adds separate order lines during synchronization and the lines are posted on designated accounts.
+When a sales tax G/L account is specified, the WooCommerce Connector adds a separate total tax amount line to sales orders during order synchronization. Additionally, the WooCommerce Connector posts the total tax amount lines to the designated G/L account.
 
 ## To configure the sales tax account number
 
@@ -24,11 +24,12 @@ When a sales tax G/L account is specified, the WooCommerce Connector adds separa
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Sales Tax Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post sales tax amounts from WooCommerce store orders.
+1. In <b>Sales Tax Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post sales tax amounts from webstore orders.
 
 ## See also
 
-[Orders](orders.md)
+[Orders](orders.md)  
+[Total tax amount line](total-tax-amount-line.md)  
 
 ## Feedback
 

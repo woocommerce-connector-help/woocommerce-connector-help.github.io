@@ -14,11 +14,15 @@ date: 12/10/2024
 
 # Change the webstore from a mapping page
 
-You can change the webstore from any mapping page. To change the webstore, in the <b>Webstore Connector Code</b> field, specify the code that represents the desired webstore.
+You can change the webstore from any mapping page. 
+
+## To change the webstore
+
+1. In the <b>Webstore Connector Code</b> field, specify the code that represents the desired webstore.
 
 ## See also
 
-[Multiple WooCommerce stores](multiple-woocommerce-stores.md)
+[Multiple webstores](multiple-webstores.md)
 
 ## Feedback
 

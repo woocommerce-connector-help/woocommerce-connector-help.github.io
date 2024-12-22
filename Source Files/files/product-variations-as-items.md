@@ -14,19 +14,19 @@ date: 12/08/2024
 
 # Product variations as items
 
-The WooCommerce Connector provides the capability for you to synchronize your product variations from your WooCommerce store to Business Central as regular items. 
+The WooCommerce Connector provides the capability for you to synchronize your product variations from your webstore to Business Central as regular items. 
 
 > [!NOTE]
 > <b>Note</b>:<br>The product variations as items feature is only available as a separately purchased per tenant extension. For more information, go to [Additional paid features](additional-paid-features.md).
 
 When you use the product variations as items feature, the WooCommerce Connector completes the following tasks:
 
-- Each of your WooCommerce store product records is synchronized with a Business Central regular item.
-- Each of your WooCommerce store product variations is synchronized with a separate regular item.
+- Each of your webstore product records is synchronized with a Business Central regular item.
+- Each of your webstore product variations is synchronized with a separate regular item.
 
 ## Webstore Variant ID
 
-The product variations as items feature uses a <b>Webstore Variant ID</b> field that appears on the <b>Webstore Item Mapping</b> page. The <b>Webstore Variant ID</b> field specifies the ID of the product variation in your WooCommerce store. When this feature is enabled, the WooCommerce Connector automatically populates the <b>Webstore Variant ID</b> for each synchronized item.
+The product variations as items feature uses a <b>Webstore Variant ID</b> field that appears on the <b>Webstore Item Mapping</b> page. The <b>Webstore Variant ID</b> field specifies the ID of the product variation in your webstore. When this feature is enabled, the WooCommerce Connector automatically populates the <b>Webstore Variant ID</b> for each synchronized item.
 
 ## To set up product variations as items
 

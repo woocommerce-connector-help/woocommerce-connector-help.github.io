@@ -14,7 +14,7 @@ date: 11/17/2024
 
 # Getting started
 
-Before you can get started with the WooCommerce Connector, you must have a WooCommerce store and a Business Central environment. Your Business Central environment can be online or on-premises.
+Before you can get started with the WooCommerce Connector, you must have a WooCommerce webstore and a Business Central environment. Your Business Central environment can be online or on-premises.
 
 Typically, you install, and then set up the app in a sandbox environment. After you are familiar with how the app works and have successfully tested the app, you then implement the app in your production environment.
 

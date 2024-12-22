@@ -1,6 +1,6 @@
 ---
 title: Webstore URL
-description: Learn how to configure your WooCommerce store URL in the WooCommerce Connector.
+description: Learn how to configure your webstore URL in the WooCommerce Connector.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -14,9 +14,9 @@ date: 12/01/2024
 
 # Webstore URL
 
-To establish the connection between your WooCommerce store and Business Central, you must configure your WooCommerce store URL.
+To establish the connection between your webstore and Business Central, you must configure your webstore URL.
 
-## To configure your WooCommerce store URL in the WooCommerce Connector
+## To configure your webstore URL in the WooCommerce Connector
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 

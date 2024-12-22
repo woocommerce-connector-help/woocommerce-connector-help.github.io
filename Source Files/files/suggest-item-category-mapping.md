@@ -14,11 +14,11 @@ date: 11/10/2024
 
 # Suggest item category mapping
 
-To assist with item category mapping, the WooCommerce Connector includes the capability for you to map item categories between your WooCommerce store and Business Central based on their names. For example, if you have an item category named <i>Clothing</i> in your WooCommerce store and Business Central, the WooCommerce Connector automatically maps this item category. 
+To assist with item category mapping, the WooCommerce Connector includes the capability for you to map item categories between your webstore and Business Central based on their names. For example, if you have an item category named <i>Clothing</i> in your webstore and Business Central, the WooCommerce Connector automatically maps this item category. 
 
 This feature eliminates the need for you to manually map all item categories, saving you time, and reducing the risk of errors.
 
-When you use this feature, the WooCommerce Connector automatically maps item category records with identical names in both your WooCommerce store and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors, the WooCommerce Connector does not map records if there are multiple items with the same name criteria.
+When you use this feature, the WooCommerce Connector automatically maps item category records with identical names in both your webstore and Business Central. This feature only works when there is an exact one-to-one match between the records. To avoid any synchronization errors, the WooCommerce Connector does not map records if there are multiple items with the same name criteria.
 
 ## To have the WooCommerce Connector suggest item mapping
 

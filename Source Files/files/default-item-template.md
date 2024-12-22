@@ -14,7 +14,7 @@ date: 12/01/2024
 
 # Default item template
 
-The WooCommerce Connector provides the capability for you to configure the default item template that the WooCommerce Connector is to use when creating items in Business Central that are synchronized from your WooCommerce store.
+The WooCommerce Connector provides the capability for you to configure the default item template that the WooCommerce Connector is to use when creating items in Business Central that are synchronized from your webstore.
 
 ## To configure the default item template
 
@@ -22,7 +22,7 @@ The WooCommerce Connector provides the capability for you to configure the defau
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Default Item Template</b>, specify the default item template that the WooCommerce Connector is to use when creating items in Business Central that are synchronized from your WooCommerce store.
+1. In <b>Default Item Template</b>, specify the default item template that the WooCommerce Connector is to use when creating items in Business Central that are synchronized from your webstore.
 
 ## See also
 

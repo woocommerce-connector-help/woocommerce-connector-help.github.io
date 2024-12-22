@@ -1,6 +1,6 @@
 ---
 title: Complete webstore orders
-description: 
+description: Learn how to mark orders in your webstore as completed after invoicing.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
@@ -10,19 +10,23 @@ date: 12/15/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce webstore -->
 
 # Complete webstore orders
 
-The WooCommerce Connector provides the capability for you to specify whether you want the WooCommerce Connector to mark orders in your WooCommerce store as completed after invoicing.
+The WooCommerce Connector provides the capability for you to specify whether you want the WooCommerce Connector to mark orders in your webstore as completed after invoicing.
 
-## To set the WooCommerce Connector to mark orders in your WooCommerce store as completed after invoicing
+## To set the WooCommerce Connector to mark orders in your webstore as completed after invoicing
 
 1. Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>woocommerce connector setup</i>, and then choose the related link.
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
 1. Turn on <b>Complete Webstore Orders</b>.
+
+## See also
+
+[Orders](orders.md)  
 
 ## Feedback
 

@@ -155,6 +155,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/customer-specific-pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/customer-specific-pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/customers.md",
       "output": {
         ".html": {
@@ -565,10 +575,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/multiple-woocommerce-stores.md",
+      "source_relative_path": "files/multiple-webstores.md",
       "output": {
         ".html": {
-          "relative_path": "files/multiple-woocommerce-stores.html"
+          "relative_path": "files/multiple-webstores.html"
         }
       },
       "version": ""
@@ -755,10 +765,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/set-up-additional-woocommerce-store.md",
+      "source_relative_path": "files/set-up-additional-webstore.md",
       "output": {
         ".html": {
-          "relative_path": "files/set-up-additional-woocommerce-store.html"
+          "relative_path": "files/set-up-additional-webstore.html"
         }
       },
       "version": ""
@@ -905,6 +915,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "files/total-shipping-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/total-shipping-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "files/total-tax-amount-line.md",
+      "output": {
+        ".html": {
+          "relative_path": "files/total-tax-amount-line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "files/trigger-synchroinization.md",
       "output": {
         ".html": {
@@ -945,10 +975,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "files/view-woocommerce-webstores.md",
+      "source_relative_path": "files/view-webstores.md",
       "output": {
         ".html": {
-          "relative_path": "files/view-woocommerce-webstores.html"
+          "relative_path": "files/view-webstores.html"
         }
       },
       "version": ""

@@ -10,11 +10,11 @@ date: 11/10/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
 
 # Shipping account number
 
-The WooCommerce Connector provides the capability for you to specify the General Ledger (G/L) account to which the WooCommerce Connector is to post shipping amounts from WooCommerce store orders.
+The WooCommerce Connector provides the capability for you to specify the General Ledger (G/L) account to which the WooCommerce Connector is to post shipping amounts from webstore orders.
 
 When a shipping G/L account is specified, the WooCommerce Connector adds separate order lines during synchronization and the lines are posted on designated accounts.
 
@@ -24,7 +24,7 @@ When a shipping G/L account is specified, the WooCommerce Connector adds separat
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Shipping Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post shipping amounts from WooCommerce store orders.
+1. In <b>Shipping Account No.</b>, specify the number that represents the G/L account to which the WooCommerce Connector is to post shipping amounts from webstore orders.
 
 ## See also
 

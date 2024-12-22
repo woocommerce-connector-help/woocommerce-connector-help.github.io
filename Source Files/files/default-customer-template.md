@@ -14,7 +14,7 @@ date: 12/14/2024
 
 # Default customer template
 
-The WooCommerce Connector provides the capability for you to configure the default customer template that the WooCommerce Connector is to use to assign default values when creating customers in Business Central that are synchronized from your WooCommerce store.
+The WooCommerce Connector provides the capability for you to configure the default customer template that the WooCommerce Connector is to use to assign default values when creating customers in Business Central that are synchronized from your webstore.
 
 The customer that the WooCommerce Connector creates in Business Central receives posting details based on this template, such as the general business posting group, the VAT business posting group, and customer posting group.
 
@@ -24,7 +24,7 @@ The customer that the WooCommerce Connector creates in Business Central receives
 
    The <b>WooCommerce Connector Setup</b> page opens.
 
-1. In <b>Default Customer Template</b>, specify the template that the WooCommerce Connector is to use to assign default values when creating customers in Business Central that are synchronized from your WooCommerce store.
+1. In <b>Default Customer Template</b>, specify the template that the WooCommerce Connector is to use to assign default values when creating customers in Business Central that are synchronized from your webstore.
 
 ## See also
 
