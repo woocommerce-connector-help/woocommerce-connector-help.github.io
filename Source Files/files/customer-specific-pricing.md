@@ -10,7 +10,7 @@ date: 12/21/2024
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore ELEX -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce Webstore ELEX autoplay -->
 
 # Customer specific pricing
 
@@ -40,7 +40,7 @@ The following list describes the key benefits of this feature:
 
    To map a Business Central price group to a WooCommerce customer role, perform the following steps:
    <ol type="a">
-    <li>Choose ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), enter <i>customer specific pricing</i>, and then choose the related link.<br>
+    <li>Choose <img src="media/ui-search/search_small.png" alt="Lightbulb that opens the Tell Me feature.">, enter <i>customer specific pricing</i>, and then choose the related link.<br>
    <p>The <b>Customer Specific Pricing</b> page opens.</p></li>
     <li>On the action bar, choose <b>New</b>.<br>
      <p>A new row appears.</p></li>
@@ -51,6 +51,10 @@ The following list describes the key benefits of this feature:
    </ol>
 
 1. Perform an item synchronization. For more information, go to [Synchronize items](synchronize-items.md).
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/customer-specific-pricing/customer-specific-pricing.html" title="Customer specific pricing"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## See also
 

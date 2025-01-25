@@ -374,3 +374,23 @@ ul.level7 > li > a, ul.level6 > li > a.sidebar-item {
     margin-block-start: 1em;
     margin-block-end: 1em;
 }
+
+iframe {
+  width: 640px;
+  height: 360px;
+  border: 1px solid;
+  border-color: #0a0a0a;
+  box-shadow: 5px 5px 5px -5px #0a0a0a;
+  border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+  iframe {
+  width: 375px;
+  height: 211px;
+  border: 1px solid;
+  border-color: #0a0a0a;
+  box-shadow: 5px 5px 5px -5px #0a0a0a;
+  border-radius: 5px;
+}
+}

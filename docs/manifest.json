@@ -564,6 +564,76 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_First_Frame.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_config.xml"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_embed.css"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_player.html",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/customer-specific-pricing_player.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "files/media/videos/customer-specific-pricing/scripts/config_xml.js",
+      "output": {
+        "resource": {
+          "relative_path": "files/media/videos/customer-specific-pricing/scripts/config_xml.js"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "files/metadata-synchronization.md",
       "output": {
