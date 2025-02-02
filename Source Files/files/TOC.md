@@ -85,6 +85,7 @@
 #### [Synchronize item and variants](synchronize-item-variants.md)
 #### [Synchronize webstore item mapping](synchronize-webstore-item-mapping.md)
 ### [Synchronize customers](synchronize-customers.md)
+### [Synchronize orders](synchronize-orders.md)
 ### [Metadata synchronization](metadata-synchronization.md)
 ### [Synchronization logs](synchronization-logs.md)
 ### [Last sales order date modified](last-sales-order-date-modified.md)

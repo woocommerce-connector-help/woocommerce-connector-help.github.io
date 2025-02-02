@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/8/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore biginteger -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore biginteger autoplay -->
 
 # Metadata synchronization
 
@@ -61,6 +61,14 @@ For a successful synchronization, ensure that the response from WooCommerce matc
 
 > [!NOTE]
 > <b>Note</b>:<br>For the <b>Data Type</b> of <i>Enum/Option</i>, ensure that the value in the response matches the enum/option caption in Business Central.
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/metadata-synchronization/metadata-synchronization.html" title="Metadata synchronization"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
+
+## See also
+
+[Additional paid features](additional-paid-features.md)
 
 ## Feedback
 

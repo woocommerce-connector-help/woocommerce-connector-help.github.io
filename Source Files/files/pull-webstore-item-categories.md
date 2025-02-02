@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/24/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
 # Configure the pull of item category data from your webstore to Business Central
 
@@ -27,6 +27,10 @@ You can configure how the WooCommerce Connector is to pull item category data fr
      - <i>All</i> : The WooCommerce Connector synchronizes all item category records from your webstore to Business Central.
      - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item category records from your webstore to Business Central.
      - <i>None</i> : The WooCommerce Connector does not synchronize item category records from your webstore to Business Central.
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/pull-webstore-item-categories/pull-webstore-item-categories.html" title="Pull webstore item categories"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## Feedback
 

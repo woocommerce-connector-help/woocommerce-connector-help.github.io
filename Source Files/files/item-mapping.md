@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/24/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes Webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes Webstore woocommerce autoplay -->
 
 # Item mapping
 
@@ -41,6 +41,10 @@ To assist with item mapping, the WooCommerce Connector includes a suggest item m
    When the <b>Manage Stock on Webstore</b> checkbox is selected for an item, the WooCommerce Connector pushes the respective item's inventory levels and pricing data from Business Central to WooCommerce during a synchronization. When performing item mapping, you can view an item's pricing and available inventory in the FactBox pane under the <b>Price</b> and <b>Inventory</b> sections.
 
    You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing items, go to [Synchronize items](synchronize-items.md).
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/item-mapping/item-mapping.html" title="Item mapping"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## See also
 

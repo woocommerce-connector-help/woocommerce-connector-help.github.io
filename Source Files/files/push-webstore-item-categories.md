@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
 # Push webstore item categories
 
@@ -25,6 +25,10 @@ You can configure how the WooCommerce Connector is to push item category data fr
 1. On the <b>Synchronization</b> FastTab, under <b>Push Data To Webstore</b> in <b>Item Categories</b>, specify one of the following options:
      - <i>Mapped Only</i> : The WooCommerce Connector synchronizes mapped item category records from Business Central to your webstore.
      - <i>None</i> : The WooCommerce Connector does not synchronize item category records from Business Central to your webstore.
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/push-webstore-item-categories/push-webstore-item-categories.html" title="Push webstore item categories"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## Feedback
 

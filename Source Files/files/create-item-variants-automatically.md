@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/8/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
 
 # Create item variants automatically
 
@@ -53,6 +53,10 @@ To assist with the creation of a large number of variations, the WooCommerce Con
    The WooCommerce Connector creates the variations.
 
    You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/create-item-variants-automatically/create-item-variants-automatically.html" title="Create item variants automatically"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## Feedback
 
