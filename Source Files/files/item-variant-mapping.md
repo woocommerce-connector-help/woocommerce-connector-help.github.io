@@ -1,16 +1,16 @@
 ---
 title: Item variant mapping
-description: 
+description: Learn about item variant mapping.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/7/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
 
 # Item variant mapping
 
@@ -39,6 +39,10 @@ The WooCommerce Connector provides the capability for you to map the item varian
 1. Specify values for other fields as required.
 
    You can now perform a synchronization between Business Central and your webstore. For more information about synchronizing item variants, go to [Synchronize an item and variants](synchronize-item-variants.md).
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/item-variant-mapping/item-variant-mapping.html" title="Item variant mapping"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## See also
 

@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/07/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
 
 # Item marketing text
 
@@ -55,6 +55,10 @@ You can configure whether to use an item's <b>Marketing Text</b> from Business C
      - <i>None</i> : Do not use this feature.
      - <i>Product Long Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Long Description</b> in your webstore.
      - <i>Product Short Description</i> : During synchronization, the WooCommerce Connector pushes the <b>Marketing Text</b> from Business Central to WooCommerce to be used in the item's <b>Product Short Description</b> in your webstore.
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/item-marketing-text/item-marketing-text.html" title="Item marketing text"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## See also
 

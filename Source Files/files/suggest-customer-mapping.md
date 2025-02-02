@@ -1,16 +1,16 @@
 ---
 title: Suggest customer mapping
-description: 
+description: Learn how to have the WooCommerce Connector suggest customer mapping.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/14/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes woocommerce webstore autoplay -->
 
 # Suggest customer mapping
 
@@ -31,6 +31,10 @@ When you use this feature, the WooCommerce Connector automatically maps customer
    The <b>Webstore Customer Mapping</b> page opens.
 
 1. On the action bar, choose <b>Webstore</b> > <b>Suggest Customer Mapping</b>.
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/suggest-customer-mapping/suggest-customer-mapping.html" title="Suggest customer mapping"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## See also
 

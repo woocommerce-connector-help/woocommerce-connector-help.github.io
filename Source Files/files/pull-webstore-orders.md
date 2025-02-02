@@ -6,11 +6,11 @@ product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 12/14/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
 # Pull webstore orders
 
@@ -25,6 +25,10 @@ You can configure how the WooCommerce Connector is to pull order data from your 
 1. On the <b>Synchronization</b> FastTab, under <b>Pull Data From Webstore</b>, in <b>Orders</b>, specify one of the following options:
      - <i>All</i> : The WooCommerce Connector synchronizes all order records from your webstore to Business Central.
      - <i>None</i> : The WooCommerce Connector does not synchronize order records from your webstore to Business Central.
+ 
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/pull-webstore-orders/pull-webstore-orders.html" title="Pull webstore orders"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## See also
 

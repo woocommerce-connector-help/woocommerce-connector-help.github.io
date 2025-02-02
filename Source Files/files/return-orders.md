@@ -1,16 +1,16 @@
 ---
 title: Return orders
-description: 
+description: Learn about return orders.
 author: Bryon Burke
 product: WooCommerce Connector Help
 version: 1.0
 audience: external
 localization differences: No
-date: 11/10/2024
+date: 2/1/2025
 ---
 
 <!-- markdownlint-disable MD006 MD007 MD009 MD024 MD025 MD033 -->
-<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce -->
+<!--// cspell:ignore  markdownlint allowfullscreen keyframes webstore woocommerce autoplay -->
 
 # Return orders
 
@@ -39,6 +39,10 @@ When performing a synchronization for a return order, the WooCommerce Connector 
 1. In <b>Return Orders</b>, specify one of the following options:
      - <i>All</i> : The WooCommerce Connector synchronizes all orders between your webstore and Business Central.
      - <i>None</i> : The WooCommerce Connector does not synchronize return orders between your webstore and Business Central.
+
+## Demo video
+
+<iframe width="350" height="197" loading="lazy" src="media/videos/return-orders/return-orders.html" title="Return orders"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:1px solid; border-color:#0a0a0a;box-shadow:5px 5px 5px -5px #0a0a0a;border-radius:7px;margin-block-start:1em"></iframe>
 
 ## See also
 
